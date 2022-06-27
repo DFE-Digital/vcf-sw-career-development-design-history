@@ -1,6 +1,6 @@
 {
-  "tags": ["section-two"],
+  "tags": ["beta-phase"],
   "eleventyNavigation": {
-    "parent": "Section two"
+    "parent": "Beta phase"
   }
 }

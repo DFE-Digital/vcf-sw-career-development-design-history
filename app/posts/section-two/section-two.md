@@ -1,21 +1,12 @@
 ---
 layout: collection
-title: Section two
-description: Section two description
-related:
-  items:
-    - text: Prototype
-      description: |
-        Username: `username`
-        Password: `password`
-      href: https://#
-    - text: More content
-      href: /#
+title: Beta phase
+description: Activity in the beta phase will go here
 pagination:
-  data: collections.section-two
+  data: collections.beta-phase
   reverse: true
   size: 50
-permalink: "section-two/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "beta-phase/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 override:tags:
   - post
 eleventyComputed:

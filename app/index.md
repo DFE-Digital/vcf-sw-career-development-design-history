@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Design history title
-description: A history of a service
+title: Social Worker Career Development design history
+description: A history of this service
 eleventyComputed:
   eleventyNavigation:
     key: home

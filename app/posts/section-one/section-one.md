@@ -1,21 +1,12 @@
 ---
 layout: collection
-title: Section one
-description: Section one description
-related:
-  items:
-    - text: Prototype
-      description: |
-        Username: `username`
-        Password: `password`
-      href: https://#
-    - text: More content
-      href: /#
+title: Alpha phase
+description: Alpha designs and decision history
 pagination:
-  data: collections.section-one
+  data: collections.alpha-phase
   reverse: true
   size: 50
-permalink: "section-one/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "alpha-phase/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 override:tags:
   - post
 eleventyComputed:
