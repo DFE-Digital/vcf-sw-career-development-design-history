@@ -1,0 +1,26 @@
+/* Standard colours */
+
+$colour-drop-shadow: #1d70b8;
+$colour-image-placeholder: hero-colour("mid-grey");
+$colour-secondary-text: hero-colour("dark-grey");
+$colour-border-grey: #b1b4b6;
+$dfe-blue: #003a69;
+$accent: #4073ac;
+
+/* change indent border */
+
+.govuk-inset-text, .app-prose > blockquote {
+  font-family: "GDS Transport", arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 400;
+  font-size: 16px;
+  font-size: 1rem;
+  line-height: 1.25;
+  color: #0b0c0c;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  clear: both;
+  border-left: 10px solid $dfe-blue;
+}

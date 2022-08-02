@@ -5,13 +5,13 @@
   "engines": {
     "node": "16.14.0"
   },
-  "description": "A history of the designs for service name here",
+  "description": "A history of the designs for the Social Worker Career Development service",
   "keywords": [
     "service-name",
     "govuk",
     "11ty"
   ],
-  "author": "Authorhere",
+  "author": "J Porton",
   "license": "MIT",
   "homepage": "herokulinkhere",
   "repository": "github:repositoryhere",
