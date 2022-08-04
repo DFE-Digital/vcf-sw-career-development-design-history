@@ -20,6 +20,8 @@ screenshots:
       src: prototype-cpd-tool-step-results.png
 ---
 
+<strong class="govuk-tag govuk-tag--pink">CPD</strong>
+
 ## When
 Sprint: Sprint 2
 When: 27 June 2022 - 2 July 2022

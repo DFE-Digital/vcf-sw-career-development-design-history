@@ -6,6 +6,8 @@ date: 2022-07-12
 
 {% from "gallery/macro.njk" import appGallery with context %}
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>
+
 ## When
 Sprint: Sprint 5
 When: 12 July 2022 - 16 July 2022

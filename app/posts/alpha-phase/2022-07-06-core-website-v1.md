@@ -22,6 +22,8 @@ screenshots:
       src: prototype-about-dfe-v1.png
 ---
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
+
 ## When
 Sprint: Sprint 4
 When: 5 July 2022 - 9 July 2022

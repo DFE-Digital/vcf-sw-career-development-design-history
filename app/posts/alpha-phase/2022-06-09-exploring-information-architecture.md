@@ -10,6 +10,8 @@ screenshots:
       src: flow-components.png
 ---
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>
+
 ## When
 Sprint: Sprint Alpha Planning
 When: 24 May 2022 - 7 June 2022

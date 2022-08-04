@@ -12,6 +12,8 @@ screenshots:
       src: prototype-programme-upon-v2.png
 ---
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>
+
 ## When
 Sprint: Sprint 5
 When: 12 July 2022 - 16 July 2022
@@ -20,7 +22,7 @@ When: 12 July 2022 - 16 July 2022
 Up to this point, the core website was 7 pages with placeholder text. During this sprint we added content for the ASYE and Upon pages.
 
 ## Design thinking
-This was a minor iteration, populating the ASYE and Upon pages with real content. We also added the same content to the alternate version. The content was not written specifically for this template, however we wanted to show both versions to users.
+This was a minor iteration, populating the **ASYE** and **Upon** pages with real content. We also added the same content to the alternate version. The content was not written specifically for this template, however we wanted to show both versions to users.
 
 ## What happened next?
 The ASYE (both versions) and Upon content pages **were** used for research in the Round 2 research sessions. See the <a href="https://docs.google.com/presentation/d/1hPaTh6F0GGfeD3W2p-TMRmWQfTwd_ZPgMixFZrHXpPg/edit?usp=sharing" target="_blank">DSWDC Alpha Round 2 UR Findings report (opens in new tab)</a> for more detail.

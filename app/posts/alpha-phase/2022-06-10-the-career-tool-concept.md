@@ -18,6 +18,8 @@ screenshots:
       src: prototype-career-tool-step-results.png
 ---
 
+<strong class="govuk-tag govuk-tag--purple">Career progression</strong>
+
 ## When
 Sprint: Sprint 1
 When: 10 June 2022 - 17 June 2022

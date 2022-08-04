@@ -8,6 +8,8 @@ screenshots:
       src: prototype-find-cpd.png
 ---
 
+<strong class="govuk-tag govuk-tag--pink">CPD</strong>
+
 ## When
 Sprint: Sprint 1
 When: 10 June 2022 - 17 June 2022

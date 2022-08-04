@@ -8,6 +8,8 @@ screenshots:
       src: prototype-role-social-worker-v1.png
 ---
 
+<strong class="govuk-tag govuk-tag--purple">Career progression</strong>
+
 ## When
 Sprint: Sprint 2
 When: 27 June 2022 - 2 July 2022
