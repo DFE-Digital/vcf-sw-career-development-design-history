@@ -9,7 +9,7 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 2
+    order: 4
 ---
 
 ## Service blueprint MVP

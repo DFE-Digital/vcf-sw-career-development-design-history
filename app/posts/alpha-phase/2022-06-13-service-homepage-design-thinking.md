@@ -37,4 +37,7 @@ Additionally, to provide a route into some of the concepts we had designed:
 
 Although we had already agreed to not use card components with imagery, the 2nd concept did use the to show how it might look if we chose that approach later.
 
+NB: Content was not provided for this concept and placeholder text was used.
+
+## What happened next?
 These concept **were not** shown to, or tested with users.

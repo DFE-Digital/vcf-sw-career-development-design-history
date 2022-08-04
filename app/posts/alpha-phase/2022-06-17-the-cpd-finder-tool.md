@@ -2,13 +2,17 @@
 title: The CPD finder tool
 description: Designing the concept for searching and filtering on CPD courses
 date: 2022-06-17
+screenshots:
+  items:
+    - text: CPD search and filter concept
+      src: prototype-find-cpd.png
 ---
 
 ## When
 Sprint: Sprint 1
 When: 10 June 2022 - 17 June 2022
 
-## Overview
+## Overview / user needs
 The discovery report highlights that users generally have no trouble finding CPD that meet their needs.
 
 > **Discovery report**: Generally users don’t struggle to find CPD which meets their needs, but completing CPD is not the only important factor in career progression.
@@ -27,6 +31,8 @@ Edit: This was very high-level thinking at this stage. We determined the DfE dev
 The search and filter is roughly based on the gov.uk faceted search pages used for content such as Research and Statistics, and Policy papers and consultations. The results are fed from a .json file containing the CPD courses.
 
 Given the basic level of this concept, none of the search or filtering elements work. There is no pagination of the results.
+
+NB: Content was not provided for this concept and placeholder text was used.
 
 ## What happened next?
 The concept **was not** shown to, or tested with users. Subsequent conversations with the business show no desire to provide a service like this.

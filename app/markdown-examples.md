@@ -9,7 +9,7 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 4
+    order: 6
 ---
 
 ## What is this page about?
@@ -139,3 +139,20 @@ This is `code` inline
 
 Adding an image inline
 `![alt text](image-name.png "image caption text")`
+
+## TAGS
+Not actually markdown but used in this design history
+
+<strong class="govuk-tag">completed</strong>
+`<strong class="govuk-tag">completed</strong>`
+
+Optional colours (put inside quotes in `class` attribute)
+govuk-tag--grey
+govuk-tag--green
+govuk-tag--turquoise
+govuk-tag--blue
+govuk-tag--purple
+govuk-tag--pink
+govuk-tag--red
+govuk-tag--orange
+govuk-tag--yellow

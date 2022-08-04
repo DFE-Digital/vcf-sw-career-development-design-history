@@ -22,7 +22,7 @@ Heroku - via Stuart Charlesworth and Paul Cripwell.
 
 ## Where we started
 
-We agreed, as a team, to use .gov.uk design patterns. The interaction designer (Jonathan Porton) had a meeting with several lead IxDs in DfE (Andy Jones and Anne Chan). Following this meeting the following was confirmed:
+We agreed, as a team, to use .gov.uk design patterns. The interaction designer (Jonathan Porton) met with several lead IxDs in DfE (Andy Jones and Anne Chan). Following this meeting the following was confirmed:
 
 > "Anything on education.gov.uk must not use the GOV.UK Logotype and crown, replace both with Department for Education and use a generic font family like Arial, Sans-serif."
 

@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Design debt
-description: Design debt from alpha
-permalink: "/design-debt.html"
+title: Problem space
+description: The problem space
+permalink: "/problem-space.html"
 tags: reference
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 5
+    order: 1
 ---
 
 Body text goes here

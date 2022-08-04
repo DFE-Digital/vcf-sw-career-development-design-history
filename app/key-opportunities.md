@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Design debt
-description: Design debt from alpha
-permalink: "/design-debt.html"
+title: Key opportunities
+description: Key opportunities identified
+permalink: "/key-opportunities.html"
 tags: reference
 eleventyComputed:
   eleventyNavigation:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 5
+    order: 2
 ---
 
 Body text goes here
