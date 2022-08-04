@@ -13,3 +13,11 @@ eleventyComputed:
 ---
 
 Body text goes here
+
+A sample image with heading:
+
+## heading
+This is some explanation.
+
+![Image alt text](filename.png "Caption text")
+<a href="/documents/sfilename.pdf" target="_blank">Download PDF (opens in new tab)</a>
