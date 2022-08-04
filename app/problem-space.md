@@ -84,5 +84,5 @@ add PDF
 
 An updated set of problem statements were created to reflect the learnings from the workshops.
 
-![Problem Statements](Problem Statements.png "Problem Statements")
+![problem-statements](problem-statements.png "Problem Statements")
 
