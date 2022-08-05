@@ -1,6 +1,6 @@
 ---
-title: Creating the core website
-description: How we created version 1 of the core website
+title: Designing the core website
+description: How we designed version 1 of the core website
 date: 2022-07-06
 screenshots:
   items:
@@ -20,6 +20,12 @@ screenshots:
       src: prototype-about-roadmap.png
     - text: DfE about content page
       src: prototype-about-dfe-v1.png
+related:
+  items:
+    - text: Iterating the core website v2
+      href: /alpha-phase/core-website-v2/
+    - text: Iterating the core website v3
+      href: /alpha-phase/core-website-v3/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -44,7 +50,7 @@ As covered in the [exploring information architect post](/alpha-phase/exploring-
 
 We also designed an alternative ASYE content page. Why? Again, at this point we had no content, so decided to create a simple content page and an alternative to accommodate larger amounts of text by using accordions.
 
-We stuck with the simple card designs for the homepage and the < Back nav for each of the pages. For the future things page, we used a scaled down version of the 'mainstream guide template' included with the .gov prototype kit. Again, without knowing what the content on this page would look like, this felt like a good compromise. In future versions, it maybe that the future things section uses separate pages for each 'thing'.
+We stuck with the simple card designs for the homepage and the `< Back` nav for each of the pages. For the future things page, we used a scaled down version of the 'mainstream guide template' included with the .gov prototype kit. Again, without knowing what the content on this page would look like, this felt like a good compromise. In future versions, it maybe that the future things section uses separate pages for each 'thing'.
 
 NB: Content was not provided for this concept and placeholder text was used.
 

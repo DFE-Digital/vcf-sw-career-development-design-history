@@ -19,7 +19,7 @@ When: 24 May 2022 - 7 June 2022
 ## Overview
 Based on the business requirements and outputs from the Crazy 8 workshop, we were able to create a basic information architecture for the service.
 
-![Initial IA/Site map](swcd-site-map.png "Initial IA/Site map")
+<a href="swcd-site-map.png" target="_blank">![Initial IA/Site map](swcd-site-map.png "Initial IA/Site map")</a>
 
 ## Design thinking
 
@@ -31,7 +31,7 @@ At this stage, we had little visibility of potential content for the service. We
 - Use card components and back links to allow navigation.
 - Provide 'related' links in an aside block on each programme page.
 
-To bring the site map concept alive, a set of flow components were created. This enabled easy creation of user journeys/flows without designing lots of real pages.
+To bring the site map concept alive, a set of flow components were designed. This enabled easy creation of user journeys/flows without designing lots of real pages.
 
 ## Design tasks completed
 

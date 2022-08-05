@@ -23,7 +23,7 @@ Based on the user need for more information about roles within social work, we e
 - Other similar job roles with different titles.
 - Where the job role sits within the career pathway - note: the pathway presented was more aligned to the pathway presented in the Induction pack (based on BASW) rather than the DfE one at this stage.
 - Requirements for the role. This could be skills, experience and training/CPD completed.
-- Additional guidance on how to reach the role (i.e. how to become one)
+- Additional guidance on how to reach the role (i.e. how to become one).
 
 ## Design thinking
 We experimented with using a couple of different content page styles. We started with the mainstream guide template included with the .gov prototype kit. We quickly decided this would not meet our needs for presenting the information as we wanted. Our second draft was based around a content page on the <a href="https://professional-development-for-teachers-leaders.education.gov.uk" target="_blank">DfE professional development for teachers website</a>. We liked the summary of information at the top and the simplicity of the layout.

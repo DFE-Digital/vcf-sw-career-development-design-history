@@ -66,7 +66,7 @@ We started by approaching the concept as a completely separate entity from the r
 #### Career pathway page flow
 <a href="career-pathway.png" target="_blank">![Career pathway structure](career-pathway.png "Career pathway structure")</a>
 
-The theory being that users could jump into any level of the pathway but would likely choose the level of the pathway.
+The theory being that users could jump into any level of the pathway but would likely choose the level of the pathway level they recognised. Without content this was hard to prove. We do have research to help inform this content in later stages.
 
 ### Pathway page
 We used arrows on the pathway page to denote the concept of linear progression.
@@ -117,5 +117,5 @@ NB: Content was not provided for this concept and placeholder text was used, exc
 ## What happened next?
 The concept **was** shown to in the Round 3 research sessions. The following findings were identified:
 
-ANNAs findings go here
+Ana's findings go here.
 

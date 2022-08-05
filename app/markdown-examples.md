@@ -147,12 +147,12 @@ Not actually markdown but used in this design history
 `<strong class="govuk-tag">completed</strong>`
 
 Optional colours (put inside quotes in `class` attribute)
-govuk-tag--grey
-govuk-tag--green
-govuk-tag--turquoise
-govuk-tag--blue
-govuk-tag--purple
-govuk-tag--pink
-govuk-tag--red
-govuk-tag--orange
-govuk-tag--yellow
+`govuk-tag--grey`
+`govuk-tag--green`
+`govuk-tag--turquoise`
+`govuk-tag--blue`
+`govuk-tag--purple`
+`govuk-tag--pink`
+`govuk-tag--red`
+`govuk-tag--orange`
+`govuk-tag--yellow`

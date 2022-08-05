@@ -17,8 +17,8 @@ When: 24 May 2022 - 7 June 2022
 ## Overview
 The first step was to setup DfE environments. These accounts were requested as follows:
 
-Github - via the form pinned to the DfE Slack channel #digital-tools-support.
-Heroku - via Stuart Charlesworth and Paul Cripwell.
+- Github - via the form pinned to the DfE Slack channel #digital-tools-support.
+- Heroku - via Stuart Charlesworth and Paul Cripwell.
 
 ## Where we started
 
@@ -30,14 +30,16 @@ We agreed, as a team, to use .gov.uk design patterns. The interaction designer (
 
 Following initial conversations, we agreed to base the designs on the gov.uk design system. There were several reasons for taking that approach:
 
-- This was not going to become a permanent resource, so a gov campaign website approach was not appropriate.
+- The business requirement was for a permanent resource, so a .gov campaign website approach was not appropriate.
 - The path of least resistance - by using standard gov patterns we felt it would be easier to get approval and sign-off from DfE stakeholders.
 - Quick to get going. Rather than create something bespoke, the components already existed so rapid development was possible.
-- We didn't want to set expectations. If we designed something away from the gov.uk patterns, such as 'Get into teaching' we would set stakeholder expectations around branding etc.
+- We didn't want to set expectations. If we designed something away from the gov.uk patterns, such as 'Get into teaching' we would set stakeholder expectations around branding and imagery.
 
-We decided to start design directly in the <a href="https://design-system.service.gov.uk/" target="_blank">gov.uk prototyping kit (opens in new tab)</a>. Due to the simplicity of the requirement, it was easier to create the pages here vs. Figma where we might have to design bespoke components.
+We decided to start design directly in the <a href="https://design-system.service.gov.uk/" target="_blank">gov.uk prototyping kit (opens in new tab)</a>. Due to the simplicity of the requirement, it was easier to create the pages here vs. Figma where we might have to design bespoke components if they didn't already exist in the DfE Figma account.
 
 We knew there was a business requirement to create a basic website based around the DfE development programmes. This meant we would, at a minimum, need a homepage, content pages and possible sub-level navigation pages. Additionally, the user was going to need to navigate from the homepage to content (guidance) pages. Therefore it was decided to use navigation via card components (screenshot and link below).
+
+> We chose to stick with the GDS Transport font at this stage. Why? It was easier to create new components and compare with other DfE services using the font. We also wanted to create a sense of familiarity with users.
 
 Lastly, we had little information on how social workers consume content. We knew they were time poor and often moving between cases, so it was felt the service should work for all devices. This meant, any new components should also work on mobile and tablet.
 

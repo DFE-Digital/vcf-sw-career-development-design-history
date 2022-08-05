@@ -24,13 +24,13 @@ Despite this, there **was** a user need for a complete view of CPDs available in
 ## Design thinking
 We decided on 2 approaches for exposing CPD offerings to users:
 
-1. Via a search and filter page where users can identify CPDs meeting their needs - designed in this sprint.
+1. Via a search and filter page, where users can identify CPDs meeting their needs - designed in this sprint.
 2. Via a question and recommendation approach - designed in sprint 2
 
 Edit: This was very high-level thinking at this stage. We determined the DfE development programmes to be CPDs and included them in this tool.
 
 ### Design approach
-The search and filter is roughly based on the gov.uk faceted search pages used for content such as Research and Statistics, and Policy papers and consultations. The results are fed from a .json file containing the CPD courses.
+The search and filter is roughly based on the gov.uk faceted search pages used for content such as <a href="https://www.gov.uk/search/research-and-statistics" target="_blank">Research and Statistics</a> and <a href="https://design-patterns.service.justice.gov.uk/components/filter/" target="_blank">MoJ design system filter component</a>. The results are fed from a .json file containing the CPD courses.
 
 Given the basic level of this concept, none of the search or filtering elements work. There is no pagination of the results.
 

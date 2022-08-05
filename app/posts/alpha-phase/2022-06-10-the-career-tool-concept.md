@@ -30,7 +30,7 @@ One of the key findings from discovery was that social workers struggle to know 
 > **Discovery report**: Career journeys are varied and complicated, with variation between structures in LAs. Users struggle to understand what’s on offer and how to progress.
 
 ## Design thinking
-We decided to design a tool that users could use to help them better understand the options available to them. The tool was based around the standard .gov question and recommendation patterns. Users would answer a series of questions and get a set of recommendations at the end. Possible question areas include:
+We decided to design a tool that users could use to help them better understand the options available to them. The tool was based around the standard .gov question and recommendation patterns. Users would answer a series of questions and get a set of recommendations at the end. Possible question areas included:
 
 - The users current role
 - Their level of experience

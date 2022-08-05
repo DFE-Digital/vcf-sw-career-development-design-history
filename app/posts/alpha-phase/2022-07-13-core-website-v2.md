@@ -10,9 +10,15 @@ screenshots:
       src: prototype-programme-asye-alt-v2.png
     - text: Upon content page with real content
       src: prototype-programme-upon-v2.png
+related:
+  items:
+    - text: Designing the core website
+      href: /alpha-phase/core-website-v1/
+    - text: Iterating the core website v3
+      href: /alpha-phase/core-website-v3/
 ---
 
-<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
 
 ## When
 Sprint: Sprint 5

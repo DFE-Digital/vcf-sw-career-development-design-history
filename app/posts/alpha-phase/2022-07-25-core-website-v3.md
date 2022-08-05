@@ -10,6 +10,12 @@ screenshots:
       src: prototype-blogs-case-studies.png
     - text: New role information page
       src: prototype-role-social-worker-v2.png
+related:
+  items:
+    - text: Designing the core website
+      href: /alpha-phase/core-website-v1/
+    - text: Iterating the core website v2
+      href: /alpha-phase/core-website-v2/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
