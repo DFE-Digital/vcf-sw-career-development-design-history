@@ -66,23 +66,18 @@ As a brand new Alpha team who had not been part of the previous discovery, there
 
 
 Based on the discovery we held a workshop to re-map our understanding of the user journey, key pain points and opportunity areas. Adding in questions that we could not answer from reviewing the discovery documentation.
-
-add PDF
-<a href="/documents/sfilename.pdf" target="_blank">Download PDF (opens in new tab)</a>
+<a href="/documents/user-journey-mapping.pdf" target="_blank">Download PDF (opens in new tab)</a>
 
 ## Creating the Problem Statements
 
-Following our user journey mapping we formulated our user problem statments through a framing exercise
-
-add PDF
-<a href="/documents/sfilename.pdf" target="_blank">Download PDF (opens in new tab)</a>
+Following our user journey mapping we formulated our user problem statments through a framing exercise.
+<a href="/documents/problem-statment-framing.pdf" target="_blank">Download PDF (opens in new tab)</a>
 
 As a team we noticed a discrepancy between the user problems and the solutions suggested by the business (DfE Policy Team). A workshop was held to better understand the business problems the DfE were trying to solve through the suggested ideas.
-
-add PDF
-<a href="/documents/sfilename.pdf" target="_blank">Download PDF (opens in new tab)</a>
+<a href="/documents/clarifying-business.pdf" target="_blank">Download PDF (opens in new tab)</a>
 
 An updated set of problem statements were created to reflect the learnings from the workshops.
 
 ![problem-statements](problem-statements.png "Problem Statements")
+<a href="/documents/problem-statement.pdf" target="_blank">Download PDF (opens in new tab)</a>
 
