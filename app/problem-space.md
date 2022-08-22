@@ -85,6 +85,7 @@ As a team we noticed a discrepancy between the user problems and the solutions s
 <a href="/documents/clarifying-business.pdf" target="_blank">Download PDF (opens in new tab)</a>
 
 The Alpha scope was adjusted to incorporate key User Problems as well as the business problem of needing to showcase the DfE development programmes.
+
 ![Alpha Scope](user-problems.png "Alpha Scope")
 
 
