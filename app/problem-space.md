@@ -19,7 +19,9 @@ The Department for Education wants to support Child & Family Social Workers to c
 **Long-term focus**
 
 In May 2022 the Independent Review into Children’s Social Care recommended an Early Career Pathway (ECP) to improve quality of front line practitioners with a focus on those in Child Protection roles.
+
 This mandatory support package includes a pathway of development and assessments for newly qualified social workers through to Expert Child Protection practitioners.
+
 Ministers have committed to this recommendation. Policy are planning how we roll this out nationally and how it fits with the wider DfE career journey services.
 
 **Current focus**
