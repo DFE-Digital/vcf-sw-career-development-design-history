@@ -9,12 +9,12 @@ Sprint: Sprint 8
 When: 1 August 2022 - 6 August 2022
 
 ## Overview / user needs
-The new guidance in the <a href="https://design.education.gov.uk/standards/branding.html#branding-your-service.html" target="_blank">Design in DfE resource</a> outlines the steps to brand a service on .education.gov.uk.
+The new guidance in the <a href="https://design.education.gov.uk/branding.html" target="_blank">Design in DfE resource</a> outlines the steps to brand a service on .education.gov.uk.
 
 Based on this, we added this to the prototype. This version is currently **not** live.
 
 ## Design thinking
-We added the supplied CSS to the prototype. The currently prototype uses dynamic headers based on the page (a variable is passed into a layout page, which calls an include file with each header version).
+We added the supplied CSS to the prototype. The current prototype uses dynamic headers based on the page (a variable is passed into a layout page, which calls an include file with each header version).
 
 The resulting branding looks like this:
 
