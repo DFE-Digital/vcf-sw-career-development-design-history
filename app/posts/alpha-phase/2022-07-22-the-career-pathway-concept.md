@@ -80,7 +80,7 @@ Depending on how well that concept tested, we had alternate approaches thought o
 
 Further testing is required to determine the best approach.
 
-The steps were based on user research. We looked at all of the findings around career progression:
+The steps were based on user research. We looked at all the findings around career progression:
 
 <a href="career-pathway-findings-summary.png" target="_blank">![Career progression findings](career-pathway-findings-summary.png "Career progression findings")</a>
 
