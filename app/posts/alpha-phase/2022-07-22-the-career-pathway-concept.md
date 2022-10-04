@@ -117,5 +117,11 @@ NB: Content was not provided for this concept and placeholder text was used, exc
 ## What happened next?
 The concept **was** shown to in the Round 3 research sessions. The following findings were identified:
 
-Ana's findings go here.
+- Users referred to the progression levels shown as 'stages', rather than levels or steps. Level implied a hierarchy, whilst stages was felt to better encompass 'experience' and 'development'.
+- Users quite confidently aligned their internal terminology with the DfE labelling (Practitioner, practice supervisor...) *but* many struggled to define where they fit in.
+- Some users felt there was a stage missing between Practitioner and Practice Supervisor.
+- Metadata in page header was missed by many and would likely be a usability issue in formal testing. The links to the PQS and BASW frameworks were not generally understood.
+- One user noted the arrows were misleading and denoted an obvious path.
+- Step-by-step page was well received and job titles understood but some confusion over choice of items under job activities.
 
+See the <a href="https://docs.google.com/presentation/d/11MnqvxkWeXfDxY2RkGzq6dtJ_T--K1YTAgiP6yfRmR8/edit?usp=sharing" target="_blank">DSWDC Alpha Round 3 UR Findings report (opens in new tab)</a> for more detail.
