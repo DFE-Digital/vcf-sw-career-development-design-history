@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Beta phase
-description: Activity in the beta phase will go here
+description: Beta designs and decision history
 pagination:
   data: collections.beta-phase
   reverse: true
@@ -14,5 +14,5 @@ eleventyComputed:
     key: "{{ title }}"
     excerpt: "{{ description }}"
     parent: home
-    order: 2
+    order: 1
 ---
