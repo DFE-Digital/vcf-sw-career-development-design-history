@@ -1,5 +1,5 @@
 ---
-title: Designing the core website
+title: Designing the core website v1
 description: How we designed version 1 of the core website
 date: 2022-07-06
 screenshots:
