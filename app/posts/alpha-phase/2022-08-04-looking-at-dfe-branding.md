@@ -4,6 +4,8 @@ description: Adapting the designs to show DfE branding
 date: 2022-07-25
 ---
 
+<strong class="govuk-tag govuk-tag--yellow">Design and branding</strong>
+
 ## When
 Sprint: Sprint 8
 When: 1 August 2022 - 6 August 2022

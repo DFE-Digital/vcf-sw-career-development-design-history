@@ -10,6 +10,8 @@ screenshots:
       src: prototype-card-patterns.png
 ---
 
+<strong class="govuk-tag govuk-tag--yellow">Design and branding</strong>
+
 ## When
 Sprint: Sprint Alpha Planning
 When: 24 May 2022 - 7 June 2022

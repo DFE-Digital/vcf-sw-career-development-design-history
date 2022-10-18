@@ -4,6 +4,8 @@ description: The approach for getting ready for beta.
 date: 2022-09-28
 ---
 
+<strong class="govuk-tag govuk-tag--yellow">Design and branding</strong>
+
 ## When
 Sprint: Sprint 0
 When: 19 September 2022 - 23 September 2022
