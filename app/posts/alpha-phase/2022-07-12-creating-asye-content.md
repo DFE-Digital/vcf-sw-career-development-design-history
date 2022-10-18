@@ -6,6 +6,10 @@ date: 2022-07-12
 
 <strong class="govuk-tag govuk-tag--blue">Development programmes</strong>&nbsp;<strong class="govuk-tag govuk-tag--orange">Content creation</strong>
 
+## When
+Sprint: Sprint 5
+When: 12 July 2022 - 16 July 2022
+
 ## Background
 
 ### Facts from discovery

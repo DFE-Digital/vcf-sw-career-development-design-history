@@ -6,6 +6,10 @@ date: 2022-07-29
 
 <strong class="govuk-tag govuk-tag--blue">Development programmes</strong>&nbsp;<strong class="govuk-tag govuk-tag--orange">Content creation</strong>
 
+## When
+Sprint: Sprint 7
+When: 25 July 2022 - 30 July 2022
+
 ## Background
 
 Pathways is a series of ‘multiple bespoke pathways for four levels of social worker role’.
