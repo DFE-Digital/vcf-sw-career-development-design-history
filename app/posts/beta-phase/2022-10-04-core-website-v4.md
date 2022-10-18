@@ -12,11 +12,11 @@ screenshots:
       src: prototype-homepage-v4.png
 related:
   items:
-    - text: Designing the core website
+    - text: Designing the core website v1 (alpha)
       href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2
+    - text: Iterating the core website v2 (alpha)
       href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3
+    - text: Iterating the core website v3 (alpha)
       href: /alpha-phase/core-website-v3/
 ---
 

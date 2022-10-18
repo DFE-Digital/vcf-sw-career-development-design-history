@@ -22,10 +22,12 @@ screenshots:
       src: prototype-about-dfe-v1.png
 related:
   items:
-    - text: Iterating the core website v2
+    - text: Iterating the core website v2 (alpha)
       href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3
+    - text: Iterating the core website v3 (alpha)
       href: /alpha-phase/core-website-v3/
+    - text: Iterating the core website v4 (beta)
+      href: /beta-phase/core-website-v4/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>

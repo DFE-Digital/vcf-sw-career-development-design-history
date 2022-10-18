@@ -12,10 +12,12 @@ screenshots:
       src: prototype-programme-upon-v2.png
 related:
   items:
-    - text: Designing the core website
+    - text: Designing the core website v1 (alpha)
       href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v3
+    - text: Iterating the core website v3 (alpha)
       href: /alpha-phase/core-website-v3/
+    - text: Iterating the core website v4 (beta)
+      href: /beta-phase/core-website-v4/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
