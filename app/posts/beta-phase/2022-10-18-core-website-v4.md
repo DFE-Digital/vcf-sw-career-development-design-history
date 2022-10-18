@@ -1,7 +1,7 @@
 ---
 title: Iterating the core website v4
 description: How we created version 3 of the core website
-date: 2022-10-04
+date: 2022-10-18
 screenshots:
   items:
     - text: Core website structure
@@ -24,7 +24,7 @@ related:
 
 ## When
 Sprint: Sprint 1 and 2
-When: 26 September 2022 - 24 October
+When: 26 September 2022 - 24 October 2022
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
