@@ -24,7 +24,7 @@ related:
 
 ## When
 Sprint: Sprint 1 and 2
-When: 26 September 2022 - 24 October 2022
+When: 26 September - 24 October 2022
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:

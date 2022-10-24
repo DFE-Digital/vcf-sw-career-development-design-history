@@ -8,7 +8,7 @@ date: 2022-09-28
 
 ## When
 Sprint: Sprint 0
-When: 19 September 2022 - 23 September 2022
+When: 19 - 23 September 2022
 
 ## Overview
 The first logical step was to determine whether to split the alpha and beta prototypes. It was decided to use the same Github repo and Heroku app. The first version of the prototype in beta would be an iteration of the core prototype in alpha.
