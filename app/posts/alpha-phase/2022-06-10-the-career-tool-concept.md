@@ -22,7 +22,7 @@ screenshots:
 
 ## When
 Sprint: Sprint 1
-When: 10 June 2022 - 17 June 2022
+When: 10 - 17 June 2022
 
 ## Overview / user needs
 One of the key findings from discovery was that social workers struggle to know what their career options are and how to progress in their careers. Whilst we cannot solve the problem of limited career progression routes with this service, we did feel we could help them to better understand what options were available and/or provide resources to support their progression.

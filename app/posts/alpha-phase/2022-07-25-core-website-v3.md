@@ -26,7 +26,7 @@ related:
 
 ## When
 Sprint: Sprint 6 and 7
-When: 19 July 2022 - 23 July 2022 / 25 July 2022 - 30 July 2022
+When: 19 - 23 July 2022 / 25 - 30 July 2022
 
 ## Overview / user needs
 We iterated the core website. At this point, users had not seen the homepage so we kept the content the same - except the Upon title, which was changed on the request of the business. We need to integrate the career progression concept into the website and that was the main driver for this version.

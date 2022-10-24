@@ -14,7 +14,7 @@ screenshots:
 
 ## When
 Sprint: Sprint 1
-When: 10 June 2022 - 17 June 2022
+When: 10 - 17 June 2022
 
 ## Overview
 It was clear that the service would likely be a standalone website. A flexible homepage was required to surface the various business requirements.

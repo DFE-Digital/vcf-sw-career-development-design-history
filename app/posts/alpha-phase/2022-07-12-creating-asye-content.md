@@ -8,7 +8,7 @@ date: 2022-07-12
 
 ## When
 Sprint: Sprint 5
-When: 12 July 2022 - 16 July 2022
+When: 12 - 16 July 2022
 
 ## Background
 

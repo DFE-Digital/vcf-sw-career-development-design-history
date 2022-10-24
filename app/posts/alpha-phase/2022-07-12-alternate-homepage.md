@@ -10,7 +10,7 @@ date: 2022-07-12
 
 ## When
 Sprint: Sprint 5
-When: 12 July 2022 - 16 July 2022
+When: 12 - 16 July 2022
 
 ## Overview / user needs
 Round 1 research sessions were conducted during the previous sprint. Based on the following findings, we created an alternate version of the homepage:

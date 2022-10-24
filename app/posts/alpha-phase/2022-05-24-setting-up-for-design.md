@@ -14,7 +14,7 @@ screenshots:
 
 ## When
 Sprint: Sprint Alpha Planning
-When: 24 May 2022 - 7 June 2022
+When: 24 May - 7 June 2022
 
 ## Overview
 The first step was to setup DfE environments. These accounts were requested as follows:

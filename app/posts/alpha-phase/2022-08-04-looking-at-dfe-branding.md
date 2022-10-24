@@ -1,14 +1,14 @@
 ---
 title: Looking at DfE branding
 description: Adapting the designs to show DfE branding
-date: 2022-07-25
+date: 2022-08-04
 ---
 
 <strong class="govuk-tag govuk-tag--yellow">Design and branding</strong>
 
 ## When
 Sprint: Sprint 8
-When: 1 August 2022 - 6 August 2022
+When: 1 - 6 August 2022
 
 ## Overview / user needs
 The new guidance in the <a href="https://design.education.gov.uk/branding.html" target="_blank">Design in DfE resource</a> outlines the steps to brand a service on .education.gov.uk.

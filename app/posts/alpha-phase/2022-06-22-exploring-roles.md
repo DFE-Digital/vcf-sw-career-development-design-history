@@ -12,7 +12,7 @@ screenshots:
 
 ## When
 Sprint: Sprint 2
-When: 27 June 2022 - 2 July 2022
+When: 20 - 25 June 2022
 
 ## Overview / user needs
 

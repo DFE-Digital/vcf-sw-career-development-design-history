@@ -34,7 +34,7 @@ related:
 
 ## When
 Sprint: Sprint 4
-When: 5 July 2022 - 9 July 2022
+When: 5 - 9 July 2022
 
 ## Overview / user needs
 

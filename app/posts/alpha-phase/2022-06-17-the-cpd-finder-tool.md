@@ -12,7 +12,7 @@ screenshots:
 
 ## When
 Sprint: Sprint 1
-When: 10 June 2022 - 17 June 2022
+When: 10 - 17 June 2022
 
 ## Overview / user needs
 The discovery report highlights that users generally have no trouble finding CPD that meet their needs.

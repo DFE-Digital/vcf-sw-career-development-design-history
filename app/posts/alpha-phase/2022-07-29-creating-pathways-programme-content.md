@@ -8,7 +8,7 @@ date: 2022-07-29
 
 ## When
 Sprint: Sprint 7
-When: 25 July 2022 - 30 July 2022
+When: 25 - 30 July 2022
 
 ## Background
 
