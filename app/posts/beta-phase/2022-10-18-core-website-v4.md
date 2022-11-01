@@ -24,13 +24,13 @@ related:
 
 ## When
 Sprint: Sprint 1 and 2
-When: 26 September - 24 October 2022
+When: 26 September to 24 October 2022
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
 ### User needs identified during the alpha research sessions
-- The HP should reflect alternate routes into development programmes. No users interpreted programmes as a means to progress career. Make it clear what programmes are relevant and to whom.
-- Ensure content clearly explains positioning. The DfE is associated with school education and the lack of clarifying content mislead some users into thinking the service is focused on Social Work at schools or within DfE. Also make it clear the focus is Children and Family SW - not adult.
+- The homepage should offer alternate routes into development programmes. No users interpreted programmes as a means to progress career. Make it clear what programmes are relevant and to whom.
+- Ensure content clearly explains positioning. The DfE is associated with school education and the lack of clarifying content misled some users into thinking the service is focused on social work at schools or within the DfE. Also make it clear the focus is child and family work social work.
 - based on subject area (to find what they’re most interested in)
 - based on role/years in practice (to ensure the right level for them)
 - to ensure eligibility (to not “waste time reading it”)
@@ -72,7 +72,21 @@ Depending on the grouping and number of programmes under that grouping, users wo
 
 ### Writing Pathways 1 and 2 content
 
-Jim wrote some content.
+We used the [Frontline website](https://thefrontline.org.uk/pathways-programme/pathways-programme-apply/) as source material for the Pathways 1 and 2 pages.
+
+We included a summary section at the top of each page to show the key facts for each programme.
+
+A known pain point is the use of different job titles for the same or similar role, so we included alternatives to 'practice supervisor' and 'middle manager' in the summary to help users know if they're in the right place.
+
+Each page shows what we think are the important details for each pathway, including:
+
+- who it’s for
+- what it offers
+- how it’s delivered
+- how it’s funded
+- how to apply
+
+Our content summarises the information on the Frontline website without trying to duplicate it.
 
 ## What happened next?
 
@@ -82,8 +96,7 @@ The final version was then tested with 6 participants in the round 1 research se
 
 We also decided to create an alternate version, using the development programme titles as the groups. We did this in alpha but never tested with real content below the titles. This was not tested during round 1.
 
-**Image goes here**
+<a href="prototype-homepage-v4.png" target="_blank">![Core website structure with programme name groupings](prototype-homepage-v4b.png "Core website structure with programme name groupings")</a>
 
 ## What needs to happen now?
 Review R1 findings. Make tweaks and retest. Add Pathway 3 content etc.
-
