@@ -23,41 +23,43 @@ related:
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
 
 ## When
-Sprint: Sprint 1 and 2
+Sprint: Sprints 1 and 2
 When: 26 September to 24 October 2022
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
 ### User needs identified during the alpha research sessions
-- The homepage should offer alternate routes into development programmes. No users interpreted programmes as a means to progress career. Make it clear what programmes are relevant and to whom.
+- The homepage should offer alternate routes into development programmes. No users interpreted programmes as a means to progress their careers. Make it clear what programmes are relevant and to whom.
 - Ensure content clearly explains positioning. The DfE is associated with school education and the lack of clarifying content misled some users into thinking the service is focused on social work at schools or within the DfE. Also make it clear the focus is child and family work social work.
 - based on subject area (to find what they’re most interested in)
 - based on role/years in practice (to ensure the right level for them)
 - to ensure eligibility (to not “waste time reading it”)
 
 ### New and revised development programme content
-The team conducted new content audits on all the DfE development programme partner websites. We did this to ensure a better understanding of the subject material. Additionally, the previous audit had been conducted by a team member who had subsequently left. The audit was designed to identify content for the following areas:
+The team did new content audits of the partner's websites so we could better understand the subject matter.
+<!-- Additionally, the previous audit had been conducted by a team member who had subsequently left. -->
+For each programme, we wanted to know:
 
-- Information on the commitment required by Social Workers for DfE development programmes
-- Information on the programme's goals and benefits. e.g. Impact on career progression
-- Information on curriculum and format of training
-- Tips on how to manage programme commitments with caseloads
-- How the delivery of the programme (especially ASYE) can differ across LAs
-- Next steps after completing programmes
-- Any testimonials from individuals who have completed the programmes
+- the commitment required by social workers
+- the goals and benefits (for example, impact on career progression)
+- the curriculum and format of training
+- tips on how to manage programme commitments with caseloads
+- how delivery (especially of ASYE) can differ across local authorities
+- next steps after completion
+- what people who'd completed it thought
 
-Findings from the audit were factored into our design thinking for this iteration.
+We factored the findings into our design thinking for this iteration.
 
-> Based on the audit, we agreed to focus on creating content for the Pathways programme - starting with Pathways 1 and 2.
+> Based on the audit, we agreed to focus on creating content for the Pathways programme, starting with Pathways 1 and 2.
 
 ## Design thinking
 
-### Creating a development programme taxonomy
-The first step was to identify local groupings for the programmes. The team met with policy stakeholders and reviewed a number of options for the physical groupings and titles of these groupings. The default (prototype) groupings were based on a combination of DfE terminology (e.g. practice leaders) and terminology used in the Frontline Pathways programme content such as 'middle-managers'.
+### Creating a taxonomy
+The first step was to identify local groupings for the programmes. The team met with policy colleagues and reviewed a number of options for the physical groupings and titles of these groupings. The default (prototype) groupings were based on a combination of DfE terminology (for example, practice leader) and terminology used in the Frontline Pathways programme content such as middle manager.
 
 <a href="groupings-spreadsheet.png" target="_blank">![Groupings spreadsheet](groupings-spreadsheet.png "Groupings spreadsheet")</a>
 
-The next step was to decide where the development programmes should sit under the groups. The Pathways programme was created in such a way that in-role and aspirant candidates could attend as a cohort. Therefore, we needed to reference the same pathway across several groups. The final taxonomy was agreed:
+The next step was to decide where programmes should sit under the groups. Pathways was designed so that in-role and aspirant candidates can attend as a cohort. Therefore, we needed to reference the same pathway across several groups. The final taxonomy was agreed:
 
 <a href="taxonomy-v01.png" target="_blank">![Development programme taxonomy](taxonomy-v01.png "Development programme taxonomy")</a>
 
@@ -74,11 +76,11 @@ Depending on the grouping and number of programmes under that grouping, users wo
 
 We used the [Frontline website](https://thefrontline.org.uk/pathways-programme/pathways-programme-apply/) as source material for the Pathways 1 and 2 pages.
 
-We included a summary section at the top of each page to show the key facts for each programme.
+We included a summary section at the top of each page to show the key facts for each programme. This had tested well in alpha.
 
-A known pain point is the use of different job titles for the same or similar role, so we included alternatives to 'practice supervisor' and 'middle manager' in the summary to help users know if they're in the right place.
+There are multiple different job titles for the same or similar role in social work, so we included alternatives to 'practice supervisor' and 'middle manager' in the summary to help users know if they're in the right place.
 
-Each page shows what we think are the important details for each pathway, including:
+We included what we think are the important details for each pathway, including:
 
 - who it’s for
 - what it offers
@@ -86,7 +88,7 @@ Each page shows what we think are the important details for each pathway, includ
 - how it’s funded
 - how to apply
 
-Our content summarises the information on the Frontline website without trying to duplicate it.
+We've tried to summarise the information on the Frontline website and avoid duplication.
 
 ## What happened next?
 
