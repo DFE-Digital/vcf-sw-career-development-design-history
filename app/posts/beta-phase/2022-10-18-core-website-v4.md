@@ -57,7 +57,11 @@ We factored the findings into our design thinking for this iteration.
 ## Design thinking
 
 ### Creating a taxonomy
-The first step was to identify local groupings for the programmes. The team met with policy colleagues and reviewed a number of options for the physical groupings and titles of these groupings. The default (prototype) groupings were based on a combination of DfE terminology (for example, practice leader) and terminology used in the Frontline Pathways programme content such as middle manager.
+The first step was to identify local groupings for the programmes.
+
+The team met with policy colleagues and reviewed a number of options for the physical groupings and titles of these groupings.
+
+The default (prototype) groupings were based on a combination of DfE terminology (for example, practice leader) and terminology used in the Frontline Pathways programme content such as middle manager.
 
 <a href="groupings-spreadsheet.png" target="_blank">![Groupings spreadsheet](groupings-spreadsheet.png "Groupings spreadsheet")</a>
 

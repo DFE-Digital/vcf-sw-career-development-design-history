@@ -92,15 +92,19 @@ The aside navigation area already contained the programme strands for the career
 
 <!-- Jim. Added these in. Add/change as you see fit. Feel free to integrate into above if it makes sense etc. -->
 
-### Changing descriptions and what we did re: career step titles
- Add something about career stage groups titles having to be the way they are as per the business and using the descriptions to explain them in user centred terms
+### Homepage iteration
+We changed the descriptions in each career stage card to include alternative job titles to those in the heading.
+
+We based this on user feedback that some job titles were not familiar, so by listing alternatives users may better recognise what card applied to them.
+
+The job titles are not exhaustive and may change based on further research and policy feedback.<br>
+<a href="homepage.png" target="_blank">![Homepage](homepage.png "Homepage")</a>
 
 ### Writing Pathways 3 and 4 content
+<a href="pathway-3.png" target="_blank">![Pathway 3](pathway-3.png "Pathway 3")</a>
+<a href="pathway-4.png" target="_blank">![Pathway 4](pathway-4.png "Pathway 4")</a>
 
 ### Sub-level content???
 
 ## What happened next?
 These changes will be tested in round 3 research sessions.
-
-
-
