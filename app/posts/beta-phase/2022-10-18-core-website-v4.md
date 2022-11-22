@@ -1,6 +1,6 @@
 ---
 title: Iterating the core website v4
-description: How we created version 3 of the core website
+description: How we created version 4 of the core website
 date: 2022-10-18
 screenshots:
   items:
@@ -18,6 +18,8 @@ related:
       href: /alpha-phase/core-website-v2/
     - text: Iterating the core website v3 (alpha)
       href: /alpha-phase/core-website-v3/
+    - text: Iterating the core website v5 (beta)
+      href: /beta-phase/core-website-v5/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
