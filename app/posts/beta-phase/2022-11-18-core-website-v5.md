@@ -35,33 +35,35 @@ We iterated the core website based on the following:
 
 ### User needs identified during beta round 1 research
 
-#### Home / sub-level navigation pages
+#### Homepage and sub-level navigation pages
 - The career stage titles were not always understood or recognised
 - A stage between newly qualified and experienced social worker is missing: the ‘social worker’
 - Career stage groupings were seen as distinctly different (team managers and heads of service)
 - 'Practice leader' and 'middle manager' were not recognised
-- The sub-level navigation pages suffered similar issues:
-  - Some found the titles and descriptions contradicting
-  - Some felt they sit between two programmes
+- On sub-level navigation pages, some users felt
+  - the titles and descriptions were contradictory
+  - they sit between 2 programmes
 
-#### Content pages
-- Users were unable to decide whether the development programme was a fit with their current commitments
+#### Programme pages
+- Users could not decide if the programme fitted with their current commitments
 - The 'What you’ll get' section was not convincing enough to guarantee sign-up
 
-See the <a href="https://docs.google.com/presentation/d/1DTwWYCDogFHeTuYVMmxEsMPkJcTsq7GZUMouz_VO-4A/edit?usp=sharing" target="_blank">Beta Round 1 UR Findings report (opens in new tab)</a> for more detail.
+See the <a href="https://docs.google.com/presentation/d/1DTwWYCDogFHeTuYVMmxEsMPkJcTsq7GZUMouz_VO-4A/edit?usp=sharing" target="_blank">beta round 1 user research findings report (opens in new tab)</a> for more detail.
 
 ### Business needs identified following feedback and show and tell sessions
-- Individual development strands (Pathway 1, 2, 3 and 4 and Upon aspiring directors and new directors) should not be presented as separate programmes
+- Individual development strands (Pathway 1, 2, 3 and 4 and Upon: aspiring directors and Upon: new directors) should not be presented as separate programmes
 - Provide a route for users to see all development programmes and their strands
 - Support the user journey of users looking for development programmes by title
 
 ## Design thinking
 
-### Providing two alternate user journeys to reach the development programmes
+### Providing alternate user journeys to reach the development programmes
 
 #### The career stage journey
-This is still the primary way for users to find the career programmes.
+This is still the primary way for users to find programmes.
+
 Users have told us throughout research that they like to identify the relevant development programme in this way.
+
 This route also supports the post minimum viable product offerings the business have identified, including guides and roles by career stage.
 
 #### View all programmes
@@ -77,18 +79,22 @@ At this stage, this is a secondary route. Further research will provide insight 
   }]
 }) }}
 
-### Showing programmes as a whole
+### Showing all programmes
 To meet the business requirement of showing programmes as a complete programme rather than just their strands, we looked at 3 areas of presentation:
 
 1. **The all programmes page**
+
 A obvious step on this page was to ensure the strands were grouped by the overarching programme name.
+
 We took the decision not to allow navigation down to each programme level, for instance there is no landing page for the Social Work Leadership Pathways programme at this stage.<br>
 <a href="prototype-all-programmes-v1.png" target="_blank">![All programmes page](prototype-all-programmes-v1.png "All programmes page")</a>
 
 2. **The sub-level navigation pages**
+
 We decided not to split the cards by the overarching programme as felt this might be confusing to users. We will monitor and review this after each round of research.
 
-3. **The content pages**
+3. **The programme pages**
+
 The aside navigation area already contained the programme strands for the career stage group the user visited from. We grouped these by the overarching programme name.<br>
 <a href="aside-examples.png" target="_blank">![Aside navigation examples](aside-examples.png "Aside navigation examples")</a>
 
@@ -127,5 +133,10 @@ We included the names of the bodies delivering the programmes as some users were
 The page also includes a link to the 'all programmes' page.<br>
 <a href="sub-level-nav-senior-managers-leaders.png" target="_blank">![Senior managers and practice leaders sub-level navigation page](sub-level-nav-senior-managers-leaders.png "Senior managers and practice leaders sub-level navigation page")</a>
 
-## What happened next?
-These changes will be tested in round 3 research sessions.
+## What next
+We'll test these changes in the round 3 of user research.
+
+We also aim to add:
+
+- a 'practitioners' section
+- a page for ASYE or Upon
