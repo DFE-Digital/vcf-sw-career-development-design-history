@@ -20,6 +20,8 @@ related:
       href: /alpha-phase/core-website-v3/
     - text: Iterating the core website v4 (beta)
       href: /beta-phase/core-website-v4/
+    - text: Iterating the core website v6 (beta)
+      href: /beta-phase/core-website-v6/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
@@ -98,9 +100,6 @@ We decided not to split the cards by the overarching programme as felt this migh
 The aside navigation area already contained the programme strands for the career stage group the user visited from. We grouped these by the overarching programme name.<br>
 <a href="aside-examples.png" target="_blank">![Aside navigation examples](aside-examples.png "Aside navigation examples")</a>
 
-
-<!-- Jim. Added these in. Add/change as you see fit. Feel free to integrate into above if it makes sense etc. -->
-
 ### Homepage iteration
 We changed the descriptions in each career stage card to include alternative job titles to the career stage in the heading.
 
@@ -133,7 +132,7 @@ We included the names of the bodies delivering the programmes as some users were
 The page also includes a link to the 'all programmes' page.<br>
 <a href="sub-level-nav-senior-managers-leaders.png" target="_blank">![Senior managers and practice leaders sub-level navigation page](sub-level-nav-senior-managers-leaders.png "Senior managers and practice leaders sub-level navigation page")</a>
 
-## What next
+## What happened next?
 We'll test these changes in the round 3 of user research.
 
 We also aim to add:

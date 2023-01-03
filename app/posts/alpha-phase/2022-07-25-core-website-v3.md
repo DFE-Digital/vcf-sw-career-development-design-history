@@ -20,6 +20,8 @@ related:
       href: /beta-phase/core-website-v4/
     - text: Iterating the core website v5 (beta)
       href: /beta-phase/core-website-v5/
+    - text: Iterating the core website v6 (beta)
+      href: /beta-phase/core-website-v6/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}

@@ -20,6 +20,8 @@ related:
       href: /beta-phase/core-website-v4/
     - text: Iterating the core website v5 (beta)
       href: /beta-phase/core-website-v5/
+    - text: Iterating the core website v6 (beta)
+      href: /beta-phase/core-website-v6/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>

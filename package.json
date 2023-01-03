@@ -5,7 +5,7 @@
   "engines": {
     "node": "16.14.0"
   },
-  "description": "A history of the designs for the Social Worker Career Development service",
+  "description": "A history of the designs for the Develop your career in child and family social work service",
   "keywords": [
     "service-name",
     "govuk",
@@ -29,7 +29,7 @@
     "watch": "npm-run-all --parallel watch:*",
     "prestart": "npm run build",
     "start": "npm run watch:files",
-    "dev": "npm run watch",
+    "dev": "npm",
     "lint:javascripts": "standard",
     "lint:javascripts:fix": "standard --fix",
     "lint:markdown": "markdownlint 'app/**/*.md'",
