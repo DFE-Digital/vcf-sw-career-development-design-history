@@ -5,6 +5,9 @@
   // Override the default 33% width on the logo in GOV.UK Frontend (prevents
   // unnecessary wrapping of app.productName on smaller tablet / desktop
   // viewports)
+
+  // J.Porton added 4 Jan 23. Additional viewport styling located in _swcd-custom.scss import
+
   .app-header__logo {
     width: auto;
 
@@ -13,4 +16,5 @@
       padding-right: 0;
     }
   }
+
 }

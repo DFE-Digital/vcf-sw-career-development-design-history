@@ -24,3 +24,22 @@ $accent: #4073ac;
   clear: both;
   border-left: 10px solid $dfe-blue;
 }
+
+  //Fix for our long service name breaking on desktop viewport
+  @media (max-width: 56.1875em) {
+  .app-header__logo {
+    width: auto;
+    }
+}
+
+  //Fix for our long service name breaking on desktop viewport
+  @media (min-width: 56.25em) {
+  .app-header__logo {
+    width: 60%;
+    }
+
+  .app-site-search {
+    margin-top: 20px;
+    }
+}
+
