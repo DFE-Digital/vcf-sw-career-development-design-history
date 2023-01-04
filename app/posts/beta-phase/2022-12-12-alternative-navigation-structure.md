@@ -42,4 +42,4 @@ It was important to ensure the user journey onto the partner websites remained c
 
 ## What happened next?
 
-This alternate structure was testing in round 5. COME BACK AND FILL IN WHAT HAPPENED HERE.
+The <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/current/home" target="_blank">alternate structure</a> was tested in round 5. COME BACK AND FILL IN WHAT HAPPENED HERE.
