@@ -1,8 +1,8 @@
-# Design history for service name
+# Design history for Develop your career in child and family social work design history
 
-Service URL here
+Prototype link [here](https://vcf-sw-career-dev-prototype.herokuapp.com/)
 
-Design History URL [here](https://vcf-sw-career-dev-des-history.herokuapp.com) 
+Design History URL [here](https://vcf-sw-career-dev-des-history.herokuapp.com)
 
 ## Purpose of this project
 
@@ -30,7 +30,7 @@ Most of the time you'll be adding new posts. If you're just doing this then:
 
 This will automatically restart the application with any changes to your posts an any images applied.
 
-If you want to make changes to CSS and JavaScript, and watch for those changes, run `npm run dev`.
+If you want to make changes to CSS and JavaScript, and watch for those changes, run `npm run watch`.
 
 ## Technical notes
 
