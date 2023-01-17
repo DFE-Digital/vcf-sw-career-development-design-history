@@ -32,7 +32,7 @@ When: 26 September to 24 October 2022
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
-### User needs identified during the alpha research sessions
+### Issues identified during the alpha research sessions
 - The homepage should offer alternate routes into development programmes. No users interpreted programmes as a means to progress their careers. Make it clear what programmes are relevant and to whom.
 - Ensure content clearly explains positioning. The DfE is associated with school education and the lack of clarifying content misled some users into thinking the service is focused on social work at schools or within the DfE. Also make it clear the focus is child and family work social work.
 - based on subject area (to find what they’re most interested in)

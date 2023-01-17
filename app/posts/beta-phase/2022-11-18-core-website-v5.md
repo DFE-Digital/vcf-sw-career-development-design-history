@@ -35,7 +35,7 @@ When: 24 October to 18 November 2022
 ## Overview / user needs
 We iterated the core website based on the following:
 
-### User needs identified during beta round 1 research
+### Issues identified during beta round 1 research
 
 #### Homepage and sub-level navigation pages
 - The career stage titles were not always understood or recognised
