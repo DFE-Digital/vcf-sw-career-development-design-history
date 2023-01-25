@@ -20,6 +20,10 @@ related:
       href: /beta-phase/core-website-v4/
     - text: Iterating the core website v5 (beta)
       href: /beta-phase/core-website-v5/
+    - text: Iterating the core website v7 (beta)
+      href: /beta-phase/core-website-v7/
+    - text: Iterating the core website v8 (beta)
+      href: /beta-phase/core-website-v8/
 ---
 
 ## When

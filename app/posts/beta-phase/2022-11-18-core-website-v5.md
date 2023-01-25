@@ -22,6 +22,10 @@ related:
       href: /beta-phase/core-website-v4/
     - text: Iterating the core website v6 (beta)
       href: /beta-phase/core-website-v6/
+    - text: Iterating the core website v7 (beta)
+      href: /beta-phase/core-website-v7/
+    - text: Iterating the core website v8 (beta)
+      href: /beta-phase/core-website-v8/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
@@ -133,7 +137,7 @@ The page also includes a link to the 'all programmes' page.<br>
 <a href="sub-level-nav-senior-managers-leaders.png" target="_blank">![Senior managers and practice leaders sub-level navigation page](sub-level-nav-senior-managers-leaders.png "Senior managers and practice leaders sub-level navigation page")</a>
 
 ## What happened next?
-We'll test these changes in the round 3 of user research.
+We'll test these changes in round 3 of user research.
 
 We also aim to add:
 
