@@ -1,6 +1,6 @@
 ---
 title: Naming the service
-description: How we named the service
+description: How we named the service.
 date: 2022-10-31
 ---
 
@@ -32,7 +32,7 @@ Once we were down to 5 post-its, everyone dot-voted for their favourite option.
 
 The winning name, voted for by all but one team member, was 'Develop your career in child and family social work'.
 
-## What next
+## Next steps
 
 We'll check how the name performs in user testing in the coming weeks.
 

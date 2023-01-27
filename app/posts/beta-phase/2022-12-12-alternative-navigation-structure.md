@@ -1,6 +1,6 @@
 ---
 title: Creating an alternative navigation structure
-description: How we created an alternative version of the service navigation structure
+description: How we created an alternative version of the service navigation structure.
 date: 2022-12-12
 screenshots:
   items:
@@ -40,6 +40,6 @@ We recreated the entire service from homepage down to programme pages to demonst
 ### Content considerations
 It was important to ensure the user journey from our service to partner websites remained cohesive. We used the partner and DfE language within the card descriptions to aid the user in recognising these terms later when they reached the partner websites.
 
-## What happened next?
+## What we did next
 
 The <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/current/home" target="_blank">alternate structure</a> was tested in round 5. COME BACK AND FILL IN WHAT HAPPENED HERE.

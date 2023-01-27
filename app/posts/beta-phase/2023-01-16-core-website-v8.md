@@ -1,6 +1,6 @@
 ---
 title: Iterating the core website v8
-description: How we created version 8 of the core website
+description: How we created version 8 of the core website.
 date: 2023-01-16
 screenshots:
   items:
@@ -29,19 +29,23 @@ related:
 ## When
 Sprint: Sprint 8
 When: 02 January to 13 January 2023
-(Sprint 7 was a Christmas period firebreak. No design was done in those weeks.)
+
+Note: Sprint 7 was a Christmas period firebreak. No design was done in those weeks.
 
 ## Overview / user needs
 We iterated the core website based on the following:
 
 ### Issues identified during beta research round 5
 
-- The purpose of website is unclear and users expect more than development programme content
-- More clarification required whether ASYE is mandatory
-- More information on the next steps when starting out as a practitioner
-- Guidance on getting the best start after ASYE (Jim, see the writeup below - not sure how to word this)
-- Improve your social work practice vs. what the page actually provides
-- More content in the practitioner space required
+Users said:
+
+- the purpose of the website is unclear
+- they expect more than just development programme content
+- it's not clear if ASYE is mandatory
+- they wanted more information on the next steps when starting out as a practitioner
+- they wanted more information on the next steps after completing ASYE
+- the 'Improve your social work practice' content did not meet their expectations
+- we need more content in the practitioner space
 
 See the <a href="https://docs.google.com/presentation/d/1nuaLKB23i-5jPldyuH8s8JuTd4SJc91JZzNEhjjTFgQ/edit?usp=share_link" target="_blank">beta round 5 user research findings report (opens in new tab)</a> for more detail.
 
@@ -50,24 +54,22 @@ See the <a href="https://docs.google.com/presentation/d/1nuaLKB23i-5jPldyuH8s8Ju
 - Cookies page
 - Privacy policy
 - Error pages
-- Upon aspiring/new programme pages
+- Upon programme pages ('aspirant directors' and 'new directors')
 
 ## Design thinking
 
 ### Programme content page iterations
-JIM - something about content updates based on issues here?
+We have yet to iterate content based on round 5 user research findings.
 
-### Purpose of website
-Users have frequently feedback that the title of the service suggests a resource that contains more information that currently provided. They expect to find the following:
-- different career paths across different areas of SW (including non-statutory)
+### Purpose of the website
+Users have said the title 'Develop your career in child and family social work' promises more than the service offers. They expect to see:
+- different career paths across different areas of social work (including non-statutory)
 - different types of roles, starting salaries and requisites
 - standards and skills descriptions for roles
-- approaches to career progression/ steps
-- practical tools (e.g. direct tools) and advice to aid different responsibilities
+- approaches to career progression
+- practical tools (for example, direct tools) and advice to aid different responsibilities
 
-These needs were also identified in the discovery phase. We have run design workshops and, subsequently, designed potential solutions during the alpha phase. These are out of scope for this phase of the project and form part of recommendations for future development of the service.
+These needs were also identified in discovery. We ran design workshops and designed potential solutions during alpha. These are out of scope for private beta but form part of our recommendations for future development of the service.
 
-Something like that anyway!
-
-## What happened next?
+## Next steps
 We'll test these changes in round 6 of user research.

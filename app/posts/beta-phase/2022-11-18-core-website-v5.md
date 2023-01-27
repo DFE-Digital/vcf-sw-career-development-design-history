@@ -1,6 +1,6 @@
 ---
 title: Iterating the core website v5
-description: How we created version 5 of the core website
+description: How we created version 5 of the core website.
 date: 2022-11-18
 screenshots:
   items:
@@ -136,10 +136,10 @@ We included the names of the bodies delivering the programmes as some users were
 The page also includes a link to the 'all programmes' page.<br>
 <a href="sub-level-nav-senior-managers-leaders.png" target="_blank">![Senior managers and practice leaders sub-level navigation page](sub-level-nav-senior-managers-leaders.png "Senior managers and practice leaders sub-level navigation page")</a>
 
-## What happened next?
+## Next steps
 We'll test these changes in round 3 of user research.
 
-We also aim to add:
+We also aim to design:
 
 - a 'practitioners' section
 - a page for ASYE or Upon

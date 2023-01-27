@@ -1,6 +1,6 @@
 ---
 title: Iterating the core website v4
-description: How we created version 4 of the core website
+description: How we created version 4 of the core website.
 date: 2022-10-18
 screenshots:
   items:
@@ -102,9 +102,9 @@ We included what we think are the important details for each pathway, including:
 
 We've tried to summarise the information on the Frontline website and avoid duplication.
 
-## What happened next?
+## What we did next
 
-The final version was then tested with 6 participants in the round 1 research sessions.
+The final version was tested with 6 participants in the round 1 research sessions.
 
 <a href="prototype-homepage-v4.png" target="_blank">![Core website structure with new groupings](prototype-homepage-v4.png "Core website structure with new groupings")</a>
 
@@ -112,5 +112,5 @@ We also decided to create an alternate version, using the development programme 
 
 <a href="prototype-homepage-v4.png" target="_blank">![Core website structure with programme name groupings](prototype-homepage-v4b.png "Core website structure with programme name groupings")</a>
 
-## What needs to happen now?
+## Next steps
 Review R1 findings. Make tweaks and retest. Add Pathway 3 content etc.

@@ -1,6 +1,6 @@
 ---
 title: Iterating the core website v6
-description: How we created version 6 of the core website
+description: How we created version 6 of the core website.
 date: 2022-12-08
 screenshots:
   items:
@@ -89,7 +89,7 @@ During research sessions we noticed that users rarely used the side navigation. 
 For now, we have decided to remove all links to other programmes and provide a link to the relevant DfE post-qualifying standards page on GOV.UK.<br>
 <a href="aside-simplified-example.png" target="_blank">![Aside simplified example](aside-simplified-example.png "Aside simplified example")</a>
 
-## What happened next?
+## What we did next
 
 ### Usability testing in research round 5
 
