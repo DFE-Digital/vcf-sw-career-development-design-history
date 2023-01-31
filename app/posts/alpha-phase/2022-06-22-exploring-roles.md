@@ -13,6 +13,7 @@ screenshots:
 ## When
 Sprint: Sprint 2
 When: 20 - 25 June 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 

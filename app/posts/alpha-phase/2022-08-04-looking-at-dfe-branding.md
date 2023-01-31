@@ -9,6 +9,7 @@ date: 2022-08-04
 ## When
 Sprint: Sprint 8
 When: 1 - 6 August 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 The new guidance in the <a href="https://design.education.gov.uk/branding.html" target="_blank">Design in DfE resource</a> outlines the steps to brand a service on .education.gov.uk.

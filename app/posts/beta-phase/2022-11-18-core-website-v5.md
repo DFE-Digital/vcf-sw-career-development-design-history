@@ -35,6 +35,7 @@ related:
 ## When
 Sprint: Sprints 3 and 4
 When: 24 October to 18 November 2022
+Posted by: Jim Laney / Jonathan Porton
 
 ## Overview / user needs
 We iterated the core website based on the following:

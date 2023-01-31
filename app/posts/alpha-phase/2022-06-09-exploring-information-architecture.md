@@ -15,6 +15,7 @@ screenshots:
 ## When
 Sprint: Sprint Alpha Planning
 When: 24 May - 7 June 2022
+Posted by: Jonathan Porton
 
 ## Overview
 Based on the business requirements and outputs from the Crazy 8 workshop, we were able to create a basic information architecture for the service.

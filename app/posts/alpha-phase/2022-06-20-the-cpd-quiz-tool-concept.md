@@ -25,6 +25,7 @@ screenshots:
 ## When
 Sprint: Sprint 2
 When: 20 - 25 June 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 During sprint 1, we designed a tool for searching and filtering by CPDs. As detailed in that post, an opportunity was identified to centralise CPD offerings.

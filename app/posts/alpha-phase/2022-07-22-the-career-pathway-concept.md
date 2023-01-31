@@ -27,6 +27,7 @@ screenshots:
 ## When
 Sprint: Sprint 6 and 7
 When: 19 - 23 July 2022 / 25 - 30 July 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 

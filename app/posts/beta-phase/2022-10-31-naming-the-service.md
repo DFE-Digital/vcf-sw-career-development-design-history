@@ -9,6 +9,7 @@ date: 2022-10-31
 ## When
 Sprint: Sprint 2
 When: 10 to 24 October 2022
+Posted by: Jim Laney
 
 ## Overview
 We needed to change the service name used in alpha – 'Social worker career development' – to something meaningful and descriptive.

@@ -15,6 +15,7 @@ screenshots:
 ## When
 Sprint: Sprint Alpha Planning
 When: 24 May - 7 June 2022
+Posted by: Jonathan Porton
 
 ## Overview
 As detailed in the [setting up for design post](/alpha-phase/setting-up-for-design/), we needed to design several components not included in the <a href="https://design-system.service.gov.uk/" target="_blank">gov.uk prototyping kit (opens in new tab)</a>. These included:

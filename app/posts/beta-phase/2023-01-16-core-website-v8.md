@@ -29,6 +29,7 @@ related:
 ## When
 Sprint: Sprint 8
 When: 02 January to 13 January 2023
+Posted by: Jim Laney / Jonathan Porton
 
 Note: Sprint 7 was a Christmas period firebreak. No design was done in those weeks.
 

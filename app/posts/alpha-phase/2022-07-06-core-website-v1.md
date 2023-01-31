@@ -43,6 +43,7 @@ related:
 ## When
 Sprint: Sprint 4
 When: 5 - 9 July 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 

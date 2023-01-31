@@ -33,6 +33,7 @@ related:
 ## When
 Sprint: Sprint 5
 When: 12 - 16 July 2022
+Posted by: Jonathan Porton
 
 ## Overview / user needs
 Up to this point, the core website was 7 pages with placeholder text. During this sprint we added content for the ASYE and Upon pages.

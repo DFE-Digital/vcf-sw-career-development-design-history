@@ -12,6 +12,8 @@ eleventyComputed:
     order: 5
 ---
 
+Posted by: Jonathan Porton
+
 During the alpha phase we incurred a number of design items that we either did not have the time to address or needed content to make them more useful.
 
 | Ref  | Item                        | Detail                                                                                                                                                                                                                                                                                           | Why?                   | Status                                       |

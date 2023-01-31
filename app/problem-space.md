@@ -12,7 +12,9 @@ eleventyComputed:
     order: 1
 ---
 
-## Background 
+Posted by: Sangeetha Govindaraj
+
+## Background
 
 The Department for Education wants to support Child & Family Social Workers to continuously improve the quality of their practice and encourage them to stay in child & family social work.
 
@@ -33,7 +35,7 @@ However:
 - it’s not clear if this approach alone made a difference to practice and retention
 - third party providers and local authorities;
   - provide fragmented and incomplete data DfE need to measure value and make improvements,
-  - control the messaging about the programmes, 
+  - control the messaging about the programmes,
   - market and deliver digital components of the programmes at a high cost to DfE.
 
 **Overarching business problems**
@@ -43,31 +45,31 @@ However:
 **Vision**
 *“ Give Child and Family social workers* ***access to the right opportunities*** *and* ***encourage them to proactively manage their learning & development*** *so they can* ***provide quality services*** *whilst continuing to* ***advance their careers within the profession.*** *”*
 
- 
-**What does the thing we launch first look like?** 
+
+**What does the thing we launch first look like?**
 
 ![MVP](MVP.png "MVP")
 
-We believe this would: 
+We believe this would:
 - Increase awareness of the DfE development programmes on offer.
 - Increase sign ups to the DfE development programmes on offer.
 - Reduce cost of marketing programmes through 3rd party providers.
 - Increase awareness of the DfE as a provider of learning and development for Child & Family Social Workers.
-  
+
 
 
 ![Post MVP proposed by the business](businessMVP.png "Post MVP proposed by the business")
 
-We believe this would: 
-- make it easier for social workers to understand their career options  
-- reduce the burden of finding quality training and development.   
-- enable social workers to be self-sufficient with career guidance, reducing reliance on managers and LAs.   
-- create opportunities for DfE to deliver our programmes more efficiently.  
+We believe this would:
+- make it easier for social workers to understand their career options
+- reduce the burden of finding quality training and development.
+- enable social workers to be self-sufficient with career guidance, reducing reliance on managers and LAs.
+- create opportunities for DfE to deliver our programmes more efficiently.
 
 
 ## Understanding our users and their journeys
 
-A borad discovery was conducted from July - Septemenr 2021 to better understand the child and family social work career development landscape and determine how the workforce strategy could be support by bringing user centred thinking. 
+A borad discovery was conducted from July - Septemenr 2021 to better understand the child and family social work career development landscape and determine how the workforce strategy could be support by bringing user centred thinking.
 
 A single concept of a Career Guidance service was created focusing on the user pains:
 - not understanding what career options are available

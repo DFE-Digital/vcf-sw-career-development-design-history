@@ -29,6 +29,7 @@ related:
 ## When
 Sprint: Sprint 5
 When: 21 November to 2 December 2022
+Posted by: Jim Laney / Jonathan Porton
 
 ## Overview / user needs
 We iterated the core website based on the following:

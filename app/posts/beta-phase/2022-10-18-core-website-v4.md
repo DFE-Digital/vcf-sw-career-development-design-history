@@ -33,6 +33,7 @@ related:
 ## When
 Sprint: Sprints 1 and 2
 When: 26 September to 24 October 2022
+Posted by: Jim Laney / Jonathan Porton
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
@@ -113,4 +114,4 @@ We also decided to create an alternate version, using the development programme 
 <a href="prototype-homepage-v4.png" target="_blank">![Core website structure with programme name groupings](prototype-homepage-v4b.png "Core website structure with programme name groupings")</a>
 
 ## Next steps
-Review R1 findings. Make tweaks and retest. Add Pathway 3 content etc.
+Review R1 findings. Make tweaks and retest. Add Pathway 3 content.
