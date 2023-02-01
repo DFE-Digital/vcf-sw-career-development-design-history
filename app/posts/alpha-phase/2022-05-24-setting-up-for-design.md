@@ -57,7 +57,7 @@ The following design tasks where completed:
   - <a href="/documents/design-board-1.pdf" target="_blank">DfE service examples PDF (opens in new tab)</a>
   - <a href="/documents/design-board-2.pdf" target="_blank">DfE component examples PDF (opens in new tab)</a>
 - Design of basic templates (and import of personal ones)
-- Creation of <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/basic-templates/content-card-examples" target="_blank">initial card components</a>
+- Creation of initial card components
 
 
 ## What happened next?
