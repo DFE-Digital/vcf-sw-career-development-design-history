@@ -26,6 +26,8 @@ related:
       href: /beta-phase/core-website-v7/
 ---
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
+
 ## When
 Sprint: Sprint 8
 When: 02 January to 13 January 2023

@@ -18,6 +18,8 @@ screenshots:
       src: prototype-alternative-leaders-v1.png
 ---
 
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
+
 ## When
 Sprint: Sprint 6
 When: 5 December to 16 December 2022

@@ -1,5 +1,7 @@
 // GOV.UK Frontend styles
 $govuk-global-styles: true;
+$govuk-new-link-styles: true;
+
 @import "govuk/all.scss";
 
 // Design History styles
@@ -7,9 +9,6 @@ $govuk-global-styles: true;
 
 // Vendor styles
 @import "vendor/prism.scss";
-
-// Becoming a teacher design history styles
-@import "bat-design-history.scss";
 
 // Career development design history styles
 @import "swcd-custom.scss";

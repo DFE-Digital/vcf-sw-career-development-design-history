@@ -8,9 +8,7 @@ $dfe-blue: #003a69;
 $accent: #4073ac;
 
 /* change indent border */
-
 .govuk-inset-text, .app-prose > blockquote {
-  font-family: "GDS Transport", arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -43,3 +41,27 @@ $accent: #4073ac;
     }
 }
 
+.app-tag-no-content {
+  background: govuk-colour("white");
+  color: govuk-colour("dark-grey");
+  outline: 2px solid govuk-colour("dark-grey");
+}
+
+.app-tag-not-running {
+  background: govuk-colour("mid-grey");
+}
+
+.app-tag-draft {
+  background: govuk-colour("orange");
+}
+
+.app-tag-published {
+  background: govuk-colour("green");
+}
+
+.app-grid-column-one-fifth {
+  width: 20%;
+  float: left;
+  box-sizing: border-box;
+  padding: 0 15px;
+}
