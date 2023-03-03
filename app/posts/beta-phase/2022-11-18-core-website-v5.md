@@ -26,6 +26,8 @@ related:
       href: /beta-phase/core-website-v7/
     - text: Iterating the core website v8 (beta)
       href: /beta-phase/core-website-v8/
+    - text: Iterating the core website v9 (beta)
+      href: /beta-phase/core-website-v9/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
@@ -35,7 +37,7 @@ related:
 ## When
 Sprint: Sprints 3 and 4
 When: 24 October to 18 November 2022
-Posted by: Jim Laney / Jonathan Porton
+Posted by: Jim Laney and Jonathan Porton
 
 ## Overview / user needs
 We iterated the core website based on the following:

@@ -23,7 +23,7 @@ screenshots:
 ## When
 Sprint: Sprint 6
 When: 5 December to 16 December 2022
-Posted by: Jim Laney / Jonathan Porton
+Posted by: Jim Laney and Jonathan Porton
 
 ## Overview
 We created an alternate version of the core website.

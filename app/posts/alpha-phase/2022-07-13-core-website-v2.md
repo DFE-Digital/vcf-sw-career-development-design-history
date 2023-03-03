@@ -26,6 +26,8 @@ related:
       href: /beta-phase/core-website-v7/
     - text: Iterating the core website v8 (beta)
       href: /beta-phase/core-website-v8/
+    - text: Iterating the core website v9 (beta)
+      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -43,6 +45,3 @@ This was a minor iteration, populating the **ASYE** and **Upon** pages with real
 
 ## What happened next?
 The ASYE (both versions) and Upon content pages **were** used for research in the Round 2 research sessions. See the <a href="https://docs.google.com/presentation/d/1hPaTh6F0GGfeD3W2p-TMRmWQfTwd_ZPgMixFZrHXpPg/edit?usp=sharing" target="_blank">DSWDC Alpha Round 2 UR Findings report (opens in new tab)</a> for more detail.
-
-
-

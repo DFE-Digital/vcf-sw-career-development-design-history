@@ -24,14 +24,16 @@ related:
       href: /beta-phase/core-website-v6/
     - text: Iterating the core website v7 (beta)
       href: /beta-phase/core-website-v7/
+    - text: Iterating the core website v9 (beta)
+      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
 
 ## When
 Sprint: Sprint 8
-When: 02 January to 13 January 2023
-Posted by: Jim Laney / Jonathan Porton
+When: 2 January to 13 January 2023
+Posted by: Jim Laney and Jonathan Porton
 
 Note: Sprint 7 was a Christmas period firebreak. No design was done in those weeks.
 

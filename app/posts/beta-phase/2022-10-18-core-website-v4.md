@@ -26,6 +26,8 @@ related:
       href: /beta-phase/core-website-v7/
     - text: Iterating the core website v8 (beta)
       href: /beta-phase/core-website-v8/
+    - text: Iterating the core website v9 (beta)
+      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -33,7 +35,7 @@ related:
 ## When
 Sprint: Sprints 1 and 2
 When: 26 September to 24 October 2022
-Posted by: Jim Laney / Jonathan Porton
+Posted by: Jim Laney and Jonathan Porton
 
 ## Overview / user needs
 We iterated the core website. This iteration was based on the following:
