@@ -53,9 +53,9 @@ Users said:
 - they missed the 'View all programmes link' on the homepage
 - they'd like to be able filter by career stage or have a search function
 
-See the <a href="https://docs.google.com/presentation/d/1Y1isfjQF4gG8r2ln_qRDbVMfA9auyrzeGsoLwheDGpQ/edit?usp=share_link" target="_blank">round 6</a> and <a href="https://docs.google.com/presentation/d/1YUnIySPhKPza549ZNGi7KFhI-HxOM1Mx7eD3jT8zJUU/edit#slide=id.g208e2b51ce9_0_225">round 7</a> user research findings reports (opens in new tab)</a> for more detail.
+See <a href="https://docs.google.com/presentation/d/1Y1isfjQF4gG8r2ln_qRDbVMfA9auyrzeGsoLwheDGpQ/edit?usp=share_link">round 6</a> and <a href="https://docs.google.com/presentation/d/1YUnIySPhKPza549ZNGi7KFhI-HxOM1Mx7eD3jT8zJUU/edit#slide=id.g208e2b51ce9_0_225">round 7</a> user research findings for more detail.
 
-## Design thinking
+## Design iterations
 
 ### Moving to the 'alternate' homepage design
 We switched to the version of the homepage which uses the career stage groupings:
@@ -66,7 +66,7 @@ We switched to the version of the homepage which uses the career stage groupings
 - senior managers
 - leaders
 
-The team believed this was the preferable structure, but feedback from Frontline (the provider of the Pathways programmes) and user testing helped confirm it.
+The team believed this was the preferable structure, but <a href="https://docs.google.com/document/d/1MS_DKBX12P0eSNb3Rjm9RJH5HsSs9KKh/edit#">feedback from Frontline</a> (the provider of the Pathways programmes) and user testing helped confirm it.
 
 After seeing the original homepage, Frontline said:
 
@@ -77,9 +77,9 @@ We also got feedback on the alternate homepage from user research participants w
 - the career stage titles align with the language they use
 - the groupings reflect users’ actual experience of roles and responsibilities within each career stage
 
-### Content iterations
+### Content changes
 
-We used feedback from Frontline to iterate Pathways content, including:
+We used <a href="https://docs.google.com/document/d/1MS_DKBX12P0eSNb3Rjm9RJH5HsSs9KKh/edit#">feedback from Frontline</a> to iterate Pathways content, including:
 
 - adding new job titles to the key facts section for Pathways 2 and 3
 - updating the 'What you'll learn' section for all Pathways pages
