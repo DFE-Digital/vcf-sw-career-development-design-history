@@ -19,7 +19,7 @@ Posted by: Halima Ikuomola
 
 ## Updates
 
-### Overview
+### Overview 
 
 We kicked off post-MVP work with a design sprint to determine how we'd tackle the next major iteration to the service: adding social worker roles and responsibilities.
 
