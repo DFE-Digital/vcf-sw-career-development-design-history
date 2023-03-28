@@ -4,15 +4,17 @@ description: How we created version 10 of the core website.
 date: 2023-03-22
 screenshots:
   items:
-    - text: New homepage structure
-      src: prototype-homepage-v9.png
+    - text: upon - aspirant directors programme
+      src: upon-aspirant.png
+    - text: upon - new directors programme
+      src: upon-new.png
 ---
 
-<strong class="govuk-tag govuk-tag--purple">Career progression</strong>
+<strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
 
 ## When
-Sprint: Sprints 11 and 12
-When: 13 February to 10 March 2023
+Sprint: Sprint 11
+When: 13 to 24 February 2023
 Posted by: Jim Laney
 
 ## Content changes
