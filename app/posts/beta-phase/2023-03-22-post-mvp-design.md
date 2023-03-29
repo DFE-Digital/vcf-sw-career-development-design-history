@@ -1,6 +1,6 @@
 ---
 title: Designing for post-MVP
-description: The design thinking around the explore roles
+description: Design thinking around exploring roles.
 date: 2023-03-22
 screenshots:
   items:
@@ -17,9 +17,7 @@ Sprint: Sprints 12 and 13
 When: 27 February to 24 March 2023
 Posted by: Halima Ikuomola
 
-## Updates
-
-### Overview
+## Overview
 
 We kicked off post-MVP work with a design sprint to determine how we'd tackle the next major iteration to the service: adding social worker roles and responsibilities.
 
@@ -31,7 +29,7 @@ The user stories for this phase of the project are:
 
 - When looking for the next step, I need to feel confident that the role I am moving into is right for me so that I can fully commit to preparing for the change and avoid disappointment
 
-### Design thinking
+## Design thinking
 
 Our initial design lists all the roles in the child and family social work sector. Roles sit under the same career stage headings as the homepage. Each role links to the National Career Service job profile for social workers so the user can read more about the role.
 
@@ -45,10 +43,8 @@ We added a call to action to the homepage directing the user to the explore role
 
 <a href="explore-roles-cta-screenshot.png" target="_blank">![Explore roles page - iteration 1](explore-roles-cta-screenshot.png "Explore roles cta on homepage - iteration 1")</a>
 
-### Next steps
+## Next steps
 
 - Write content for the explore roles page to replace placeholder text. The design of this page may change based on the content.
 
 - This page will also need to be user tested. Accessibility and usability issues may arise from navigating the user away from the service.
-
-
