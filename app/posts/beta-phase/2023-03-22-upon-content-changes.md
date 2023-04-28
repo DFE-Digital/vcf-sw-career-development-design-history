@@ -13,7 +13,7 @@ screenshots:
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
 
 ## When
-Sprint: Sprint 11 hello
+Sprint: Sprint 11
 When: 13 to 24 February 2023
 Posted by: Jim Laney
 
