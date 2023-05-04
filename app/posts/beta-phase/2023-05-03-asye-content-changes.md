@@ -11,7 +11,7 @@ screenshots:
 ## When
 Sprint: Sprint 16
 When: 24 April to 5 May 2023
-Posted by: Jim Laney
+Posted by: Jim Laney 
 
 ## Overview
 
