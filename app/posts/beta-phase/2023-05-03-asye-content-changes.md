@@ -11,7 +11,7 @@ screenshots:
 ## When
 Sprint: Sprint 16
 When: 24 April to 5 May 2023
-Posted by: Jim Laney 
+Posted by: Jim Laney
 
 ## Overview
 
@@ -44,7 +44,7 @@ They also recommended we:
 - outline the benefits of the ASYE
 - switch the order of sections so that 'How you're supported' comes before 'How you're assessed'
 
-## Content changes
+## What we changed
 
 Using Skills for Care's input we:
 
