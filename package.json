@@ -5,9 +5,9 @@
   "private": true,
   "engines": {
     "node": "18.15.0"
-  }
+  }}
 
-  "keywords": [
+  {"keywords": [
     "service-name",
     "govuk",
     "11ty"
