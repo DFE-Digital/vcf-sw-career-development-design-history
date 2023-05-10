@@ -1,13 +1,13 @@
 {
   "name": "design-history-template",
-  "description": "A history of the designs for the Develop your career in child and family social work service",
   "version": "2.0.0",
   "private": true,
   "engines": {
     "node": "18.15.0"
-  }}
-
-  {"keywords": [
+    "npm": "9.5.0"
+  },
+  "description": "A history of the designs for the Develop your career in child and family social work service",
+  "keywords": [
     "service-name",
     "govuk",
     "11ty"
