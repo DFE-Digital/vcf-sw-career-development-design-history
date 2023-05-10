@@ -3,7 +3,9 @@ title: Iterating ASYE programme content
 description: How we used input from a subject matter expert to inform content iterations.
 date: 2023-05-03
 screenshots:
-
+  items:
+    - text: ASYE page
+      src: asye.png
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
