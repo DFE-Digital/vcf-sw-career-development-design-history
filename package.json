@@ -4,6 +4,7 @@
   "private": true,
   "engines": {
     "node": "18.15.0"
+    "npm": "9.5.0"}
   },
   "description": "A history of the designs for the Develop your career in child and family social work service",
   "keywords": [
