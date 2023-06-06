@@ -1,6 +1,6 @@
 ---
 title: Naming the service
-description: How we named the service.
+description: How we arrived at Develop your career in child and family social work.
 date: 2022-10-31
 ---
 

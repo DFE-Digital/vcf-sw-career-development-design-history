@@ -1,31 +1,8 @@
 ---
-title: Iterating the core website v7
-description: How we created version 7 of the core website.
+title: Iterating Pathways content and designing footer pages
+description: We updated Pathways programme pages and created footer pages.
 date: 2022-12-20
 screenshots:
-  items:
-    - text: Updated homepage
-      src: prototype-homepage-v6.png
-    - text: New practitioner information page
-      src: prototype-practitioner-page-v1.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v4 (beta)
-      href: /beta-phase/core-website-v4/
-    - text: Iterating the core website v5 (beta)
-      href: /beta-phase/core-website-v5/
-    - text: Iterating the core website v6 (beta)
-      href: /beta-phase/core-website-v6/
-    - text: Iterating the core website v8 (beta)
-      href: /beta-phase/core-website-v8/
-    - text: Iterating the core website v9 (beta)
-      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -36,7 +13,6 @@ When: 5 December to 16 December 2022
 Posted by: Jim Laney and Jonathan Porton
 
 ## Overview / user needs
-We iterated the core website based on the following:
 
 ### Issues identified during beta research round 4
 
@@ -47,7 +23,7 @@ On the Pathway 3 content page, users:
 
 Some users also struggled to use the Frontline website after navigating there from our site.
 
-See the <a href="https://docs.google.com/presentation/d/18i8lvGJL9-YLO5xgmtbZ-Nn1r2Yz23cYGSFbW6VjVeY/edit?usp=share_link" target="_blank">beta round 4 user research findings report (opens in new tab)</a> for more detail.
+See the <a href="https://educationgovuk.sharepoint.com/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/Shared%20Documents/Childrens%20social%20care/9.%20Career%20Progression%20(August%202021%20-%20)/10%20Beta/2.%20UCD/User%20Research/4.%20Outputs/Round%204/SWCD%20Beta%20Round%204%20UR%20Findings.pptx?d=wee071128125d5552f886a8bc035a74d4&csf=1&web=1&e=ZtKCxb">beta round 4 user research findings report</a> for more detail.
 
 ### New and updated content
 
@@ -75,7 +51,7 @@ We fed back the research findings to the Frontline team, including how some user
 - signed up to the wrong programme
 
 ### Design of supporting pages
-During this sprint we designed the <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/supporting-pages/list-of-pages" target="_blank">supporting pages (opens in new tab)</a> for the service, including:
+During this sprint we designed the <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/supporting-pages/list-of-pages">supporting pages</a> for the service, including:
 - cookies page
 - cookies banner functionality
 - accessibility statement

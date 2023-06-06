@@ -1,6 +1,6 @@
 ---
-title: Iterating the core website v9
-description: How we created version 9 of the core website.
+title: Updating the homepage and Pathways pages
+description: We implemented the alternate homepage and iterated Pathways content.
 date: 2023-03-01
 screenshots:
   items:
@@ -14,24 +14,6 @@ screenshots:
       src: pathway-3.png
     - text: Pathway 4
       src: pathway-4.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v4 (beta)
-      href: /beta-phase/core-website-v4/
-    - text: Iterating the core website v5 (beta)
-      href: /beta-phase/core-website-v5/
-    - text: Iterating the core website v6 (beta)
-      href: /beta-phase/core-website-v6/
-    - text: Iterating the core website v7 (beta)
-      href: /beta-phase/core-website-v7/
-    - text: Iterating the core website v8 (beta)
-      href: /beta-phase/core-website-v8/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -53,7 +35,7 @@ Users said:
 - they missed the 'View all programmes link' on the homepage
 - they'd like to be able filter by career stage or have a search function
 
-See <a href="https://docs.google.com/presentation/d/1Y1isfjQF4gG8r2ln_qRDbVMfA9auyrzeGsoLwheDGpQ/edit?usp=share_link">round 6</a> and <a href="https://docs.google.com/presentation/d/1YUnIySPhKPza549ZNGi7KFhI-HxOM1Mx7eD3jT8zJUU/edit#slide=id.g208e2b51ce9_0_225">round 7</a> user research findings for more detail.
+See <a href="https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B35A30A83-E73D-5823-8FE2-46282E225184%7D&file=Beta%20Round%206%20UR%20Findings.pptx&action=edit&mobileredirect=true">round 6</a> and <a href="https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B268EA749-8599-53D3-7A52-B818762032C9%7D&file=Round%207%20Child%20and%20Family%20Social%20Worker%20Career%20Development%20S%26T.pptx&action=edit&mobileredirect=true">round 7</a> user research findings for more detail.
 
 ## Design iterations
 
@@ -66,7 +48,7 @@ We switched to the version of the homepage which uses the career stage groupings
 - senior managers
 - leaders
 
-The team believed this was the preferable structure, but <a href="https://docs.google.com/document/d/1MS_DKBX12P0eSNb3Rjm9RJH5HsSs9KKh/edit#">feedback from Frontline</a> (the provider of the Pathways programmes) and user testing helped confirm it.
+The team believed this was the preferable structure, but <a href="https://educationgovuk.sharepoint.com.mcas.ms/:w:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B424E6E26-BB44-5839-BD7D-69C3E7ED94FF%7D&file=Pathways_DfE%20website_updates_01.23.docx&action=default&mobileredirect=true">feedback from Frontline</a> (the provider of the Pathways programmes) and user testing helped confirm it.
 
 After seeing the original homepage, Frontline said:
 
@@ -79,7 +61,7 @@ We also got feedback on the alternate homepage from user research participants w
 
 ### Content changes
 
-We used <a href="https://docs.google.com/document/d/1MS_DKBX12P0eSNb3Rjm9RJH5HsSs9KKh/edit#">feedback from Frontline</a> to iterate Pathways content, including:
+We used <a href="https://educationgovuk.sharepoint.com.mcas.ms/:w:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B424E6E26-BB44-5839-BD7D-69C3E7ED94FF%7D&file=Pathways_DfE%20website_updates_01.23.docx&action=default&mobileredirect=true">feedback from Frontline</a> to iterate Pathways content, including:
 
 - adding new job titles to the key facts section for Pathways 2 and 3
 - updating the 'What you'll learn' section for all Pathways pages

@@ -1,6 +1,6 @@
 ---
-title: Iterating the core website v5
-description: How we created version 5 of the core website.
+title: Updating user journeys and Pathways 3 and 4 content
+description: We created a ‘view all programmes’ page, iterated the homepage and created Pathways 3 and 4 pages.
 date: 2022-11-18
 screenshots:
   items:
@@ -10,24 +10,6 @@ screenshots:
       src: taxonomy-v1.png
     - text: Homepage v5
       src: prototype-homepage-v5.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v4 (beta)
-      href: /beta-phase/core-website-v4/
-    - text: Iterating the core website v6 (beta)
-      href: /beta-phase/core-website-v6/
-    - text: Iterating the core website v7 (beta)
-      href: /beta-phase/core-website-v7/
-    - text: Iterating the core website v8 (beta)
-      href: /beta-phase/core-website-v8/
-    - text: Iterating the core website v9 (beta)
-      href: /beta-phase/core-website-v9/
 ---
 
 {% from "gallery/macro.njk" import appGallery with context %}
@@ -57,7 +39,7 @@ We iterated the core website based on the following:
 - Users could not decide if the programme fitted with their current commitments
 - The 'What you’ll get' section was not convincing enough to guarantee sign-up
 
-See the <a href="https://docs.google.com/presentation/d/1DTwWYCDogFHeTuYVMmxEsMPkJcTsq7GZUMouz_VO-4A/edit?usp=sharing" target="_blank">beta round 1 user research findings report (opens in new tab)</a> for more detail.
+See the <a href="https://educationgovuk.sharepoint.com/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/Shared%20Documents/Childrens%20social%20care/9.%20Career%20Progression%20(August%202021%20-%20)/10%20Beta/2.%20UCD/User%20Research/4.%20Outputs/Round%201/Round%201%20UR%20Findings.pptx?d=wa9f3d63f3456508a5d21d4df716f0105&csf=1&web=1&e=7iMn71">beta round 1 user research findings report</a> for more detail.
 
 ### Business needs identified following feedback and show and tell sessions
 - Individual development strands (Pathway 1, 2, 3 and 4 and Upon: aspiring directors and Upon: new directors) should not be presented as separate programmes

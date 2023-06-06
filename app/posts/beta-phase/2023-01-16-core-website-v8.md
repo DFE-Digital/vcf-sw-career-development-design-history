@@ -1,31 +1,8 @@
 ---
-title: Iterating the core website v8
-description: How we created version 8 of the core website.
+title: Testing the ASYE and practitioner pages
+description: We tested ASYE programme content and the practitioner page.
 date: 2023-01-16
 screenshots:
-  items:
-    - text: Updated homepage
-      src: prototype-homepage-v6.png
-    - text: New practitioner information page
-      src: prototype-practitioner-page-v1.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v4 (beta)
-      href: /beta-phase/core-website-v4/
-    - text: Iterating the core website v5 (beta)
-      href: /beta-phase/core-website-v5/
-    - text: Iterating the core website v6 (beta)
-      href: /beta-phase/core-website-v6/
-    - text: Iterating the core website v7 (beta)
-      href: /beta-phase/core-website-v7/
-    - text: Iterating the core website v9 (beta)
-      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -52,7 +29,7 @@ Users said:
 - the 'Improve your social work practice' content did not meet their expectations
 - we need more content in the practitioner space
 
-See the <a href="https://docs.google.com/presentation/d/1nuaLKB23i-5jPldyuH8s8JuTd4SJc91JZzNEhjjTFgQ/edit?usp=share_link" target="_blank">beta round 5 user research findings report (opens in new tab)</a> for more detail.
+See the <a href="https://educationgovuk.sharepoint.com/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/Shared%20Documents/Childrens%20social%20care/9.%20Career%20Progression%20(August%202021%20-%20)/10%20Beta/2.%20UCD/User%20Research/4.%20Outputs/Round%205/Beta%20Round%205%20UR%20Findings.pptx?d=w0326d95eca3259f9c99af842c999987f&csf=1&web=1&e=pDp14f">beta round 5 user research findings report</a> for more detail.
 
 ### New and updated content
 
@@ -75,6 +52,3 @@ Users have said the title 'Develop your career in child and family social work' 
 - practical tools (for example, direct tools) and advice to aid different responsibilities
 
 These needs were also identified in discovery. We ran design workshops and designed potential solutions during alpha. These are out of scope for private beta but form part of our recommendations for future development of the service.
-
-## Next steps
-We'll test these changes in round 6 of user research.

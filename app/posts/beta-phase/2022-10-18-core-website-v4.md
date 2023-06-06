@@ -1,6 +1,6 @@
 ---
-title: Iterating the core website v4
-description: How we created version 4 of the core website.
+title: Creating a taxonomy and first drafts of Pathways content
+description: We grouped career stages and wrote first versions of Pathways 1 and 2 pages.
 date: 2022-10-18
 screenshots:
   items:
@@ -10,24 +10,6 @@ screenshots:
       src: core-website-v4-journey.png
     - text: Homepage v4
       src: prototype-homepage-v4.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v5 (beta)
-      href: /beta-phase/core-website-v5/
-    - text: Iterating the core website v6 (beta)
-      href: /beta-phase/core-website-v6/
-    - text: Iterating the core website v7 (beta)
-      href: /beta-phase/core-website-v7/
-    - text: Iterating the core website v8 (beta)
-      href: /beta-phase/core-website-v8/
-    - text: Iterating the core website v9 (beta)
-      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>

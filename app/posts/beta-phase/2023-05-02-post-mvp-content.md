@@ -1,6 +1,6 @@
 ---
 title: First iteration of post-MVP content
-description: How we created content around roles and responsibilities.
+description: We created a first draft of social worker roles and responsibilities content.
 date: 2023-05-02
 screenshots:
   items:

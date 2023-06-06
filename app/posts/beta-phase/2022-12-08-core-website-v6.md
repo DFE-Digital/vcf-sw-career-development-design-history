@@ -1,31 +1,11 @@
 ---
-title: Iterating the core website v6
-description: How we created version 6 of the core website.
+title: Addressing 'the practitioner gap'
+description: We added a page around professional development for practitioners.
 date: 2022-12-08
 screenshots:
   items:
-    - text: Updated homepage
-      src: prototype-homepage-v6.png
     - text: New practitioner information page
       src: prototype-practitioner-page-v1.png
-related:
-  items:
-    - text: Designing the core website v1 (alpha)
-      href: /alpha-phase/core-website-v1/
-    - text: Iterating the core website v2 (alpha)
-      href: /alpha-phase/core-website-v2/
-    - text: Iterating the core website v3 (alpha)
-      href: /alpha-phase/core-website-v3/
-    - text: Iterating the core website v4 (beta)
-      href: /beta-phase/core-website-v4/
-    - text: Iterating the core website v5 (beta)
-      href: /beta-phase/core-website-v5/
-    - text: Iterating the core website v7 (beta)
-      href: /beta-phase/core-website-v7/
-    - text: Iterating the core website v8 (beta)
-      href: /beta-phase/core-website-v8/
-    - text: Iterating the core website v9 (beta)
-      href: /beta-phase/core-website-v9/
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--purple">Career progression</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -47,7 +27,7 @@ We iterated the core website based on the following:
 - Side contextual navigation on programme pages confused some and unused by others
 - Career stage titles and descriptions not always understood
 
-See the <a href="https://docs.google.com/presentation/d/1hPaTh6F0GGfeD3W2p-TMRmWQfTwd_ZPgMixFZrHXpPg/edit?usp=share_link" target="_blank">beta round 2 user research findings report (opens in new tab)</a> and <a href="https://docs.google.com/presentation/d/11MnqvxkWeXfDxY2RkGzq6dtJ_T--K1YTAgiP6yfRmR8/edit?usp=share_link" target="_blank">beta round 3 user research findings report (opens in new tab)</a> for more detail.
+See the <a href="https://educationgovuk.sharepoint.com/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/Shared%20Documents/Childrens%20social%20care/9.%20Career%20Progression%20(August%202021%20-%20)/10%20Beta/2.%20UCD/User%20Research/4.%20Outputs/Round%202/Round%202%20UR%20Findings.pptx?d=w696b312c48005008e517eb5f561fd662&csf=1&web=1&e=j6ahZZ">beta round 2 user research findings report</a> and <a href="https://educationgovuk.sharepoint.com/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/Shared%20Documents/Childrens%20social%20care/9.%20Career%20Progression%20(August%202021%20-%20)/10%20Beta/2.%20UCD/User%20Research/4.%20Outputs/Round%203/Round%203%20UR%20Findings.pptx?d=w181fe379f2d15b818007e0cb711773bf&csf=1&web=1&e=PCQk1S">beta round 3 user research findings report</a> for more detail.
 
 ### New and updated content
 
@@ -66,7 +46,7 @@ We looked a 2 possible alternatives to the existing call to action link:
 - **The gov button component button**
 We decided against this as the button component is generally used to carry out an action, for example applying for something.
 - **The action link component**
-The <a href="https://components.publishing.service.gov.uk/component-guide/action_link" target="_blank">action link component</a> provides a nice compromise as it's more interesting and clearer than a standard hyperlink but does not imply the start of an action journey. It's also used in several DfE services as detailed in our <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/basic-templates/dfe-components/dfe-action-link" target="_blank">design history</a>.<br>
+The <a href="https://components.publishing.service.gov.uk/component-guide/action_link" target="_blank">action link component</a> provides a nice compromise as it's more interesting and clearer than a standard hyperlink but does not imply the start of an action journey. It's also used in several DfE services.<br>
 ![Action link component](action-link.png "Action link component")
 
 ### Addressing the 'practitioner' career stage gap

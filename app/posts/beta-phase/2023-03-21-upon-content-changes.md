@@ -1,6 +1,6 @@
 ---
 title: Iterating upon programme content
-description: How we used provider and user feedback to inform content iterations.
+description: We iterated upon content based on provider and user feedback.
 date: 2023-03-21
 screenshots:
   items:
@@ -19,13 +19,13 @@ Posted by: Jim Laney
 
 ## Overview
 
-<a href="https://docs.google.com/presentation/d/1Y1isfjQF4gG8r2ln_qRDbVMfA9auyrzeGsoLwheDGpQ/edit#slide=id.g1fb296a8bfc_0_59">Round 6 of user research</a> revealed that some of the content on the upon: aspirant directors and upon: new directors pages was unclear and unhelpful.
+<a href="https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B35A30A83-E73D-5823-8FE2-46282E225184%7D&file=Beta%20Round%206%20UR%20Findings.pptx&action=edit&mobileredirect=true">Round 6 of user research</a> revealed that some of the content on the upon: aspirant directors and upon: new directors pages was unclear and unhelpful.
 
 We sought clarity from The Staff College (one of the providers of the programmes) to help us improve it.
 
 First, we had call with team members and Staff College respresentatives where we walked through the prototype and shared user feedback we'd received. We then sent them a list of questions to get more detail on the programmes and fill content gaps.
 
-We used <a href="https://docs.google.com/document/d/1POOEpZgG53Pwz6v-8lCod32wNSfVn8ib/edit">their feedback</a> to update and improve the content on these pages.
+We used <a href="https://educationgovuk.sharepoint.com.mcas.ms/:w:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B176AABA3-FFDD-507A-3B80-E4035019BCF5%7D&file=Upon%20content%20questions%20v3.docx&action=default&mobileredirect=true">their feedback</a> to update and improve the content on these pages.
 
 ## Content changes
 

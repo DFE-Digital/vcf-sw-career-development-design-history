@@ -1,6 +1,6 @@
 ---
 title: Creating an alternative navigation structure
-description: How we created an alternative version of the service navigation structure.
+description: We created an alternative way of navigating the website.
 date: 2022-12-12
 screenshots:
   items:
@@ -28,7 +28,6 @@ Posted by: Jim Laney and Jonathan Porton
 ## Overview
 We created an alternate version of the core website.
 
-### Why?
 As mentioned in previous posts, the choice of language to describe career stages was not always understood or recognised by users. This issue has been identified in every round of user research to date, so we felt we should test an alternate version.
 
 ## Design thinking
@@ -45,4 +44,4 @@ It was important to ensure the user journey from our service to partner websites
 
 ## What we did next
 
-The <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/current/home" target="_blank">alternate structure</a> was tested in round 5. COME BACK AND FILL IN WHAT HAPPENED HERE.
+The <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/beta-sprint-6/alternative-structure/home">alternate structure</a> was tested in <a href="https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B0326D95E-CA32-59F9-C99A-F842C999987F%7D&file=Beta%20Round%205%20UR%20Findings.pptx&action=edit&mobileredirect=true">round 5 of user research</a>.

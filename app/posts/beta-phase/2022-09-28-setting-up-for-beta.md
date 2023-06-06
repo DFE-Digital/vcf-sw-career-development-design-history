@@ -8,7 +8,7 @@ date: 2022-09-28
 
 ## When
 Sprint: Sprint 0
-When: 19 - 23 September 2022
+When: 19 to 23 September 2022
 Posted by: Jonathan Porton
 
 ## Overview
