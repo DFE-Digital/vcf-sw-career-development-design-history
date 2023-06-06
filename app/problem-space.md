@@ -98,3 +98,49 @@ An updated set of problem statements were created to reflect the learnings from 
 
 ![Problems mapped againt user experience](user-experience.png "Problems mapped againt user experience")
 
+## Continuing to refine and expand our User Journeys in Private Beta 
+
+In private beta we had two goals:
+
+- Create, test and iterate content for our MVP service 
+
+- Soft launch our service to a limited but wider audience than Alpha to gain feedback and understanding on how helpful our MVP is for our users 
+
+Due to time constraints and business priorities, we had chosen for our MVP service to solve the business need of showcasing DfE programmes.  
+
+As a service team, we however understood that a wider set of needs had to be addressed in order to encourage active career progression and practise development. 
+
+We utilised Private Beta to capture further insights and expand our user journeys from Alpha. We understood that whilst we were focusing on the journey around users “Developing skills and experience” in Alpha, this journey was part of a wider non-linear and cyclical journey that included: 
+
+- Starting you career in Child & family social work 
+
+- Preparing for a job in Child & family social work 
+
+- Developing skills and experience 
+
+- Managing your career 
+
+- Finding and applying for vacancies 
+
+<a href="/documents/high-level-as-is-map-beta-update.pdf" target="_blank">Download PDF (opens in new tab)</a>
+
+![High Level As-Is Map (Beta update)](high-level-as-is-map-beta-update.png "High Level As-Is Map (Beta update)")
+
+<a href="/documents/high-Level-as-is-user-and business-needs.pdf" target="_blank">Download PDF (opens in new tab)</a>
+
+![High Level As-Is User and Business Needs (Beta update)](high-level-as-is-user-and-business-needs.png "High Level As-Is User and Business Needs (Beta update)")
+
+Based on user feedback during Private Beta, we knew we had to take a deeper dive into the journeys around “Managing your career” and meet user needs which would ultimately lead to users “Developing skills and experience”. 
+
+Insights from user research and service feedback have been captured, our intention is to continue iterating these maps through every round of research
+
+Detailed As-Is Experience Map for Developing skills and experience: <a href="/documents/Detailed-As-Is-Experience-Map-for-Developing-skills-and-experience.pdf" target="_blank">Download PDF (opens in new tab)</a>
+
+Detailed As-Is Experience Map for Managing your career in child & family social work: <a href="/documents/Detailed-As-Is-Experience-Map-Managing-your career" target="_blank">Download PDF (opens in new tab)</a>
+
+## Our future vision for the service 
+
+The insights from Private Bata have ultimately impacted our longer-term vision for the service as depicted below 
+
+![High Level Future service experience](High-Level-Future-service-experience.png "High Level Future service experience")
+<a href="https://vcf-sw-career-dev-des-history.herokuapp.com/service-blueprints" target="_blank">You can find updated detailed future service blueprints here (opens in new tab)</a> 
