@@ -1,11 +1,9 @@
 ---
 title: Iterating ASYE programme content
-description: We iterated ASYE content based on feedback from a subject matter expert.
+description: How we used input from a subject matter expert to inform content iterations.
 date: 2023-05-03
 screenshots:
-  items:
-    - text: ASYE page
-      src: asye.png
+
 ---
 
 <strong class="govuk-tag govuk-tag--turquoise">Core website</strong>&nbsp;<strong class="govuk-tag govuk-tag--blue">Development programmes</strong>
@@ -13,11 +11,11 @@ screenshots:
 ## When
 Sprint: Sprint 16
 When: 24 April to 5 May 2023
-Posted by: Jim Laney
+Posted by: Jim Laney -
 
 ## Overview
 
-In <a href="https://educationgovuk.sharepoint.com.mcas.ms/:p:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B0326D95E-CA32-59F9-C99A-F842C999987F%7D&file=Beta%20Round%205%20UR%20Findings.pptx&action=edit&mobileredirect=true">round 5 of user research</a> we tested the content on the <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/current/roles/asye">assessed and supported year in employment (ASYE) page</a> for newly qualified social workers (NQSWs).
+In <a href="https://docs.google.com/presentation/d/1Y1isfjQF4gG8r2ln_qRDbVMfA9auyrzeGsoLwheDGpQ/edit#slide=id.g1fb296a8bfc_0_59">round 5 of user research</a> we tested the content on the <a href="https://vcf-sw-career-dev-prototype.herokuapp.com/current/roles/asye">assessed and supported year in employment (ASYE) page</a> for newly qualified social workers (NQSWs).
 
 Some of the questions we came away from testing with included:
 
@@ -31,7 +29,7 @@ We met with a subject matter expert from the charity Skills for Care (who helped
 
 ## Feedback
 
-<a href="https://educationgovuk.sharepoint.com.mcas.ms/:w:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7B26FA7387-DBDE-403C-B307-E04B56C55219%7D&file=Questions%20on%20the%20ASYE%20for%20Skills%20for%20Care.docx&action=default&mobileredirect=true">Skills for Care confirmed</a> that the ASYE:
+<a href="https://educationgovuk.sharepoint.com.mcas.ms/:w:/r/sites/Vulnerablechildrenandfamiliesportfolio/_layouts/15/Doc.aspx?sourcedoc=%7BE4E3BA70-6EA2-5510-BDA0-399114B5D377%7D&file=ASYE%20v4.docx&action=default&mobileredirect=true&cid=0f67063b-a865-4f81-b756-792d3f896cfc">Skills for Care confirmed</a> that the ASYE:
 
 - is delivered by the NQSW's employer "via a national programme provided by Skills for Care"
 - is not mandatory but it is "an industry standard" and NQSWs are encouraged to do it
@@ -46,7 +44,7 @@ They also recommended we:
 - outline the benefits of the ASYE
 - switch the order of sections so that 'How you're supported' comes before 'How you're assessed'
 
-## What we changed
+## Content changes
 
 Using Skills for Care's input we:
 
@@ -59,3 +57,5 @@ Using Skills for Care's input we:
 - added a link to the Skills for Care page on the stages of the ASYE
 - added a section talking about the benefits of the ASYE
 - moved the 'How you're supported' section above 'How you're assessed'
+
+ADD SCREENSHOT OF UPDATED PAGE
